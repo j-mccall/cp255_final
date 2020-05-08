@@ -1,0 +1,2169 @@
+PUMA,Place,puma_to_place_factor,place_code
+101,"Albany city, CA",0.138,674
+101,"Berkeley city, CA",0.862,6000
+102,"Emeryville city, CA",0.085,22594
+102,"Oakland city, CA",0.915,53000
+103,"Oakland city, CA",0.933,53000
+103,"Piedmont city, CA",0.067,56938
+104,"Oakland city, CA",1,53000
+104,"San Leandro city, CA",0,68084
+105,"Alameda city, CA",0.488,562
+105,"Castro Valley CDP, CA",0.008,11964
+105,"Oakland city, CA",0.016,53000
+105,"San Leandro city, CA",0.488,68084
+106,"Ashland CDP, CA",0.157,2980
+106,"Castro Valley CDP, CA",0.442,11964
+106,"Cherryland CDP, CA",0.093,12902
+106,"Fairview CDP, CA",0.048,23350
+106,"Hayward city, CA",0.074,33000
+106,"San Leandro city, CA",0.001,68084
+106,"San Lorenzo CDP, CA",0.156,68112
+106,Unincorporated_106,0.029,99999
+107,"Castro Valley CDP, CA",0.023,11964
+107,"Cherryland CDP, CA",0.008,12902
+107,"Fairview CDP, CA",0.026,23350
+107,"Hayward city, CA",0.93,33000
+107,"Sunol CDP, CA",0,77042
+107,"Union City city, CA",0.008,81204
+107,Unincorporated_107,0.005,99999
+108,"Fremont city, CA",0.189,26000
+108,"Newark city, CA",0.317,50916
+108,"Union City city, CA",0.493,81204
+108,Unincorporated_108,0,99999
+109,"Fremont city, CA",1,26000
+110,"Dublin city, CA",0.213,20018
+110,"Hayward city, CA",0,33000
+110,"Livermore city, CA",0.41,41992
+110,"Pleasanton city, CA",0.352,57792
+110,"Sunol CDP, CA",0.005,77042
+110,Unincorporated_110,0.02,99999
+300,"Alpine Village CDP, CA",0.001,1228
+300,"Amador City city, CA",0.001,1514
+300,"Angels city, CA",0.017,2112
+300,"Arnold CDP, CA",0.044,2770
+300,"Aspen Springs CDP, CA",0,3026
+300,"Avery CDP, CA",0.003,3316
+300,"Bear Valley CDP, CA",0.005,4716
+300,"Bear Valley CDP, CA",0.001,4730
+300,"Benton CDP, CA",0.001,5346
+300,"Big Pine CDP, CA",0.008,6616
+300,"Bishop city, CA",0.017,6798
+300,"Bootjack CDP, CA",0.004,7525
+300,"Bridgeport CDP, CA",0.003,8240
+300,"Buckhorn CDP, CA",0.015,8680
+300,"Buck Meadows CDP, CA",0,8716
+300,"Buena Vista CDP, CA",0.002,8828
+300,"Camanche North Shore CDP, CA",0.004,10042
+300,"Camanche Village CDP, CA",0.003,10044
+300,"Cartago CDP, CA",0,11600
+300,"Catheys Valley CDP, CA",0.003,12062
+300,"Cedar Ridge CDP, CA",0.007,12300
+300,"Chalfant CDP, CA",0.003,12594
+300,"Chinese Camp CDP, CA",0.001,13182
+300,"Cold Springs CDP, CA",0.004,14454
+300,"Coleville CDP, CA",0.002,14484
+300,"Columbia CDP, CA",0.01,14904
+300,"Copperopolis CDP, CA",0.021,16210
+300,"Coultervillle CDP, CA",0.001,16644
+300,"Crowley Lake CDP, CA",0.004,17372
+300,"Darwin CDP, CA",0,18030
+300,"Dixon Lane-Meadow Creek CDP, CA",0.011,19406
+300,"Dorrington CDP, CA",0.015,19570
+300,"Drytown CDP, CA",0.001,19976
+300,"East Sonora CDP, CA",0.011,21188
+300,"El Portal CDP, CA",0.002,22328
+300,"Fiddletown CDP, CA",0.001,23980
+300,"Fish Camp CDP, CA",0.001,24218
+300,"Forest Meadows CDP, CA",0.008,24897
+300,"Furnace Creek CDP, CA",0,28021
+300,"Greeley Hill CDP, CA",0.006,30900
+300,"Groveland CDP, CA",0.003,31372
+300,"Homewood Canyon CDP, CA",0,34405
+300,"Hornitos CDP, CA",0,34708
+300,"Independence CDP, CA",0.003,36350
+300,"Ione city, CA",0.015,36672
+300,"Jackson city, CA",0.021,36980
+300,"Jamestown CDP, CA",0.015,37106
+300,"June Lake CDP, CA",0.007,37624
+300,"Keeler CDP, CA",0.001,37918
+300,"Kirkwood CDP, CA",0.007,38646
+300,"Lake Don Pedro CDP, CA",0.005,39484
+300,"Lee Vining CDP, CA",0.001,40998
+300,"Lone Pine CDP, CA",0.009,42580
+300,"Long Barn CDP, CA",0.003,42622
+300,"McGee Creek CDP, CA",0,44830
+300,"Mammoth Lakes town, CA",0.086,45358
+300,"Mariposa CDP, CA",0.01,45932
+300,"Markleeville CDP, CA",0.002,45988
+300,"Martell CDP, CA",0.001,46100
+300,"Mesa CDP, CA",0.001,47013
+300,"Mesa Vista CDP, CA",0.001,47086
+300,"Midpines CDP, CA",0.006,47374
+300,"Mi-Wuk Village CDP, CA",0.01,48298
+300,"Mokelumne Hill CDP, CA",0.003,48480
+300,"Mono City CDP, CA",0.001,48602
+300,"Mono Vista CDP, CA",0.013,48641
+300,"Mountain Ranch CDP, CA",0.009,49628
+300,"Murphys CDP, CA",0.011,50034
+300,"Olancha CDP, CA",0.001,53490
+300,"Paradise CDP, CA",0.001,55528
+300,"Pearsonville CDP, CA",0,56294
+300,"Phoenix Lake CDP, CA",0.017,56870
+300,"Pine Grove CDP, CA",0.01,57148
+300,"Pine Mountain Lake CDP, CA",0.027,57244
+300,"Pioneer CDP, CA",0.005,57330
+300,"Plymouth city, CA",0.004,57834
+300,"Rail Road Flat CDP, CA",0.003,59220
+300,"Rancho Calaveras CDP, CA",0.019,59426
+300,"Red Corral CDP, CA",0.006,59896
+300,"River Pines CDP, CA",0.002,61124
+300,"Round Valley CDP, CA",0.001,63148
+300,"San Andreas CDP, CA",0.012,64420
+300,"Shoshone CDP, CA",0,71680
+300,"Sierra Village CDP, CA",0.005,71834
+300,"Sonora city, CA",0.022,72674
+300,"Soulsbyville CDP, CA",0.009,72772
+300,"Strawberry CDP, CA",0.003,75322
+300,"Sunny Slopes CDP, CA",0.001,76040
+300,"Sutter Creek city, CA",0.012,77392
+300,"Swall Meadows CDP, CA",0.001,77430
+300,"Tecopa CDP, CA",0.001,78050
+300,"Topaz CDP, CA",0,79030
+300,"Trona CDP, CA",0,80515
+300,"Tuolumne City CDP, CA",0.007,80763
+300,"Tuttletown CDP, CA",0.003,80896
+300,"Twain Harte CDP, CA",0.019,80966
+300,"Vallecito CDP, CA",0.002,81652
+300,"Valley Springs CDP, CA",0.014,81890
+300,"Volcano CDP, CA",0.001,83094
+300,"Walker CDP, CA",0.004,83262
+300,"Wallace CDP, CA",0.002,83304
+300,"Wawona CDP, CA",0.003,83766
+300,"West Bishop CDP, CA",0.011,84120
+300,"West Point CDP, CA",0.003,84732
+300,"Wilkerson CDP, CA",0.002,85551
+300,"Yosemite Valley CDP, CA",0.003,86912
+300,Unincorporated_300,0.277,99999
+701,"Butte Creek Canyon CDP, CA",0.011,9310
+701,"Butte Meadows CDP, CA",0.005,9318
+701,"Chico city, CA",0.773,13014
+701,"Cohasset CDP, CA",0.009,14442
+701,"Durham CDP, CA",0.047,20270
+701,"Forest Ranch CDP, CA",0.012,24918
+701,"Nord CDP, CA",0.002,51574
+701,Unincorporated_701,0.141,99999
+702,"Bangor CDP, CA",0.006,3792
+702,"Berry Creek CDP, CA",0.021,6070
+702,"Biggs city, CA",0.013,6560
+702,"Butte Creek Canyon CDP, CA",0,9310
+702,"Butte Valley CDP, CA",0.008,9324
+702,"Cherokee CDP, CA",0.001,12818
+702,"Clipper Mills CDP, CA",0.003,14148
+702,"Concow CDP, CA",0.008,16035
+702,"Forbestown CDP, CA",0.003,24750
+702,"Gridley city, CA",0.05,31260
+702,"Honcut CDP, CA",0.002,34428
+702,"Kelly Ridge CDP, CA",0.03,38024
+702,"Magalia CDP, CA",0.112,45120
+702,"Oroville city, CA",0.129,54386
+702,"Oroville East CDP, CA",0.077,54388
+702,"Palermo CDP, CA",0.044,55086
+702,"Paradise town, CA",0.271,55520
+702,"Rackerby CDP, CA",0.002,59115
+702,"Richvale CDP, CA",0.002,60662
+702,"Robinson Mill CDP, CA",0.001,62200
+702,"South Oroville CDP, CA",0.04,73178
+702,"Stirling City CDP, CA",0.003,74186
+702,"Thermalito CDP, CA",0.051,78470
+702,"Yankee Hill CDP, CA",0.004,86678
+702,Unincorporated_702,0.119,99999
+1100,"Arbuckle CDP, CA",0.017,2420
+1100,"Artois CDP, CA",0.002,2910
+1100,"Bend CDP, CA",0.005,5276
+1100,"Burnt Ranch CDP, CA",0.003,9150
+1100,"Coffee Creek CDP, CA",0.003,14406
+1100,"College City CDP, CA",0.002,14554
+1100,"Colusa city, CA",0.042,14946
+1100,"Corning city, CA",0.053,16322
+1100,"Douglas City CDP, CA",0.008,19724
+1100,"Elk Creek CDP, CA",0.002,22006
+1100,"Flournoy CDP, CA",0.001,24568
+1100,"Gerber CDP, CA",0.008,29392
+1100,"Grimes CDP, CA",0.003,31288
+1100,"Hamilton City CDP, CA",0.01,31890
+1100,"Hayfork CDP, CA",0.022,32562
+1100,"Hyampom CDP, CA",0.003,36098
+1100,"Junction City CDP, CA",0.007,37596
+1100,"Lake California CDP, CA",0.024,39460
+1100,"Las Flores CDP, CA",0.002,40536
+1100,"Lewiston CDP, CA",0.013,41278
+1100,"Lodoga CDP, CA",0.003,42230
+1100,"Los Molinos CDP, CA",0.017,44140
+1100,"Mad River CDP, CA",0.006,45092
+1100,"Manton CDP, CA",0.003,45512
+1100,"Maxwell CDP, CA",0.008,46338
+1100,"Mineral CDP, CA",0.009,47794
+1100,"Orland city, CA",0.049,54274
+1100,"Paskenta CDP, CA",0.001,56042
+1100,"Paynes Creek CDP, CA",0.001,56196
+1100,"Princeton CDP, CA",0.003,58758
+1100,"Proberta CDP, CA",0.002,58814
+1100,"Rancho Tehama Reserve CDP, CA",0.014,59604
+1100,"Red Bluff city, CA",0.108,59892
+1100,"Richfield CDP, CA",0.002,60592
+1100,"Ruth CDP, CA",0.006,63386
+1100,"Stonyford CDP, CA",0.002,75154
+1100,"Tehama city, CA",0.004,78106
+1100,"Trinity Center CDP, CA",0.006,80476
+1100,"Trinity Village CDP, CA",0.005,80483
+1100,"Vina CDP, CA",0.001,82786
+1100,"Weaverville CDP, CA",0.031,83794
+1100,"Williams city, CA",0.027,85586
+1100,"Willows city, CA",0.044,85684
+1100,Unincorporated_1100,0.421,99999
+1301,"East Richmond Heights CDP, CA",0.001,21061
+1301,"El Cerrito city, CA",0.021,21796
+1301,"El Sobrante CDP, CA",0.001,22454
+1301,"North Richmond CDP, CA",0.03,52162
+1301,"Richmond city, CA",0.688,60620
+1301,"Rollingwood CDP, CA",0.019,62700
+1301,"San Pablo city, CA",0.23,68294
+1301,Unincorporated_1301,0.01,99999
+1302,"Bayview CDP, CA",0.013,4470
+1302,"East Richmond Heights CDP, CA",0.03,21061
+1302,"El Cerrito city, CA",0.21,21796
+1302,"El Sobrante CDP, CA",0.109,22454
+1302,"Hercules city, CA",0.157,33308
+1302,"Kensington CDP, CA",0.049,38086
+1302,"Montalvin Manor CDP, CA",0.019,48718
+1302,"North Richmond CDP, CA",0,52162
+1302,"Pinole city, CA",0.153,57288
+1302,"Richmond city, CA",0.222,60620
+1302,"Rodeo CDP, CA",0.001,62490
+1302,"Rollingwood CDP, CA",0,62700
+1302,"Tara Hills CDP, CA",0.037,77924
+1302,Unincorporated_1302,0.001,99999
+1303,"Alhambra Valley CDP, CA",0.007,898
+1303,"Concord city, CA",0.252,16000
+1303,"Crockett CDP, CA",0.032,17274
+1303,"Hercules city, CA",0.023,33308
+1303,"Martinez city, CA",0.284,46114
+1303,"Mountain View CDP, CA",0.019,49651
+1303,"Pacheco CDP, CA",0.031,54764
+1303,"Pleasant Hill city, CA",0.243,57764
+1303,"Port Costa CDP, CA",0.002,58226
+1303,"Reliez Valley CDP, CA",0.009,60279
+1303,"Richmond city, CA",0.006,60620
+1303,"Rodeo CDP, CA",0.059,62490
+1303,"Vine Hill CDP, CA",0.026,82842
+1303,Unincorporated_1303,0.009,99999
+1304,"Acalanes Ridge CDP, CA",0.009,135
+1304,"Alamo CDP, CA",0.098,618
+1304,"Alhambra Valley CDP, CA",0,898
+1304,"Castle Hill CDP, CA",0.01,11915
+1304,"Danville town, CA",0.028,17988
+1304,"Diablo CDP, CA",0.008,19150
+1304,"Lafayette city, CA",0.186,39122
+1304,"Martinez city, CA",0.003,46114
+1304,"Moraga town, CA",0.111,49187
+1304,"Orinda city, CA",0.131,54232
+1304,"Pleasant Hill city, CA",0.012,57764
+1304,"Reliez Valley CDP, CA",0.016,60279
+1304,"Saranap CDP, CA",0.044,70266
+1304,"Walnut Creek city, CA",0.341,83346
+1304,Unincorporated_1304,0.004,99999
+1305,"Blackhawk CDP, CA",0.076,6928
+1305,"Camino Tassajara CDP, CA",0.014,10301
+1305,"Danville town, CA",0.317,17988
+1305,"Diablo CDP, CA",0.001,19150
+1305,"Norris Canyon CDP, CA",0.006,51622
+1305,"San Ramon city, CA",0.574,68378
+1305,Unincorporated_1305,0.012,99999
+1306,"Alamo CDP, CA",0.007,618
+1306,"Clayton city, CA",0.087,13882
+1306,"Concord city, CA",0.442,16000
+1306,"North Gate CDP, CA",0.006,51890
+1306,"Pleasant Hill city, CA",0.021,57764
+1306,"San Miguel CDP, CA",0.027,68263
+1306,"Shell Ridge CDP, CA",0.008,71362
+1306,"Contra Costa Centre CDP, CA",0.068,83215
+1306,"Walnut Creek city, CA",0.319,83346
+1306,Unincorporated_1306,0.015,99999
+1307,"Antioch city, CA",0.004,2252
+1307,"Bay Point CDP, CA",0.162,4415
+1307,"Clyde CDP, CA",0.006,14232
+1307,"Concord city, CA",0.314,16000
+1307,"Pittsburg city, CA",0.506,57456
+1307,Unincorporated_1307,0.007,99999
+1308,"Antioch city, CA",0.953,2252
+1308,"Brentwood city, CA",0.033,8142
+1308,"Oakley city, CA",0.004,53070
+1308,Unincorporated_1308,0.01,99999
+1309,"Bethel Island CDP, CA",0.036,6210
+1309,"Brentwood city, CA",0.445,8142
+1309,"Byron CDP, CA",0.011,9346
+1309,"Discovery Bay CDP, CA",0.147,19339
+1309,"Knightsen CDP, CA",0.016,38772
+1309,"Oakley city, CA",0.309,53070
+1309,Unincorporated_1309,0.036,99999
+1500,"Adin CDP, CA",0.002,310
+1500,"Almanor CDP, CA",0.001,1094
+1500,"Alturas city, CA",0.021,1444
+1500,"Beckwourth CDP, CA",0.005,4772
+1500,"Belden CDP, CA",0,4856
+1500,"Bertsch-Oceanview CDP, CA",0.015,6150
+1500,"Bieber CDP, CA",0.002,6336
+1500,"Blairsden CDP, CA",0,6994
+1500,"Bucks Lake CDP, CA",0.004,8744
+1500,"California Pines CDP, CA",0.004,9834
+1500,"Canby CDP, CA",0.001,10732
+1500,"Canyondam CDP, CA",0,10914
+1500,"Caribou CDP, CA",0,11166
+1500,"Carrick CDP, CA",0.001,11481
+1500,"Cedarville CDP, CA",0.004,12328
+1500,"Chester CDP, CA",0.018,12930
+1500,"Chilcoot-Vinton CDP, CA",0.004,13077
+1500,"Clear Creek CDP, CA",0.002,13910
+1500,"Clio CDP, CA",0.001,14106
+1500,"Crescent City city, CA",0.028,17022
+1500,"Crescent Mills CDP, CA",0.002,17050
+1500,"C-Road CDP, CA",0.001,17267
+1500,"Cromberg CDP, CA",0.003,17288
+1500,"Daphnedale Park CDP, CA",0.001,17995
+1500,"Delleker CDP, CA",0.005,18485
+1500,"Dorris city, CA",0.006,19584
+1500,"Doyle CDP, CA",0.005,19878
+1500,"Dunsmuir city, CA",0.016,20242
+1500,"Eagleville CDP, CA",0.001,20424
+1500,"East Quincy CDP, CA",0.017,21026
+1500,"East Shore CDP, CA",0.004,21138
+1500,"Edgewood CDP, CA",0,21530
+1500,"Etna city, CA",0.005,22972
+1500,"Fort Bidwell CDP, CA",0.002,25030
+1500,"Fort Jones city, CA",0.005,25128
+1500,"Gasquet CDP, CA",0.006,29154
+1500,"Gazelle CDP, CA",0.001,29252
+1500,"Gold Mountain CDP, CA",0.001,30339
+1500,"Graeagle CDP, CA",0.013,30560
+1500,"Greenhorn CDP, CA",0.002,31029
+1500,"Greenview CDP, CA",0.001,31134
+1500,"Greenville CDP, CA",0.009,31162
+1500,"Grenada CDP, CA",0.003,31246
+1500,"Hamilton Branch CDP, CA",0.006,31883
+1500,"Happy Camp CDP, CA",0.009,32030
+1500,"Herlong CDP, CA",0.002,33336
+1500,"Hiouchi CDP, CA",0.002,33935
+1500,"Hornbrook CDP, CA",0.002,34694
+1500,"Indian Falls CDP, CA",0,36364
+1500,"Iron Horse CDP, CA",0.002,36735
+1500,"Janesville CDP, CA",0.009,37134
+1500,"Johnstonville CDP, CA",0.006,37484
+1500,"Johnsville CDP, CA",0.002,37512
+1500,"Keddie CDP, CA",0.001,37904
+1500,"Klamath CDP, CA",0.006,38702
+1500,"Lake Almanor Country Club CDP, CA",0.021,39411
+1500,"Lake Almanor Peninsula CDP, CA",0.008,39420
+1500,"Lake Almanor West CDP, CA",0.007,39425
+1500,"Lake City CDP, CA",0.001,39472
+1500,"Lake Davis CDP, CA",0.002,39483
+1500,"La Porte CDP, CA",0.002,40312
+1500,"Likely CDP, CA",0.001,41390
+1500,"Litchfield CDP, CA",0.001,41782
+1500,"Little Grass Valley CDP, CA",0.002,41789
+1500,"Lookout CDP, CA",0.001,43126
+1500,"Mabie CDP, CA",0.001,44672
+1500,"McCloud CDP, CA",0.011,44784
+1500,"Macdoel CDP, CA",0.001,44812
+1500,"Meadow Valley CDP, CA",0.004,46618
+1500,"Milford CDP, CA",0.001,47472
+1500,"Mohawk Vista CDP, CA",0.001,48448
+1500,"Montague city, CA",0.009,48690
+1500,"Mount Hebron CDP, CA",0.001,49768
+1500,"Mount Shasta city, CA",0.028,49852
+1500,"Newell CDP, CA",0.003,51042
+1500,"New Pine Creek CDP, CA",0.001,51168
+1500,"Nubieber CDP, CA",0,52610
+1500,"Patton Village CDP, CA",0.005,56140
+1500,"Paxton CDP, CA",0,56182
+1500,"Plumas Eureka CDP, CA",0.008,57828
+1500,"Portola city, CA",0.017,58352
+1500,"Prattville CDP, CA",0.001,58618
+1500,"Quincy CDP, CA",0.013,59080
+1500,"Smith River CDP, CA",0.005,72380
+1500,"Spaulding CDP, CA",0.01,73554
+1500,"Spring Garden CDP, CA",0,73654
+1500,"Storrie CDP, CA",0,75168
+1500,"Susanville city, CA",0.062,77364
+1500,"Taylorsville CDP, CA",0.001,78008
+1500,"Tennant CDP, CA",0.001,78176
+1500,"Tobin CDP, CA",0,78792
+1500,"Tulelake city, CA",0.006,80686
+1500,"Twain CDP, CA",0.001,80952
+1500,"Valley Ranch CDP, CA",0.001,81869
+1500,"Warner Valley CDP, CA",0.001,83494
+1500,"Weed city, CA",0.019,83850
+1500,"Westwood CDP, CA",0.015,84928
+1500,"Whitehawk CDP, CA",0.003,85086
+1500,"Yreka city, CA",0.054,86944
+1500,Unincorporated_1500,0.399,99999
+1700,"Auburn Lake Trails CDP, CA",0.017,3205
+1700,"Cameron Park CDP, CA",0.086,10256
+1700,"Camino CDP, CA",0.009,10270
+1700,"Cold Springs CDP, CA",0.002,14450
+1700,"Coloma CDP, CA",0.003,14764
+1700,"Diamond Springs CDP, CA",0.056,19220
+1700,"El Dorado Hills CDP, CA",0.17,21880
+1700,"Georgetown CDP, CA",0.012,29350
+1700,"Grizzly Flats CDP, CA",0.007,31302
+1700,"Placerville city, CA",0.052,57540
+1700,"Pollock Pines CDP, CA",0.038,58030
+1700,"Shingle Springs CDP, CA",0.019,71554
+1700,"South Lake Tahoe city, CA",0.171,73108
+1700,"Tahoma CDP, CA",0.014,77728
+1700,Unincorporated_1700,0.343,99999
+1901,"Biola CDP, CA",0.009,6728
+1901,"Bowles CDP, CA",0.001,7750
+1901,"Cantua Creek CDP, CA",0.003,10816
+1901,"Caruthers CDP, CA",0.017,11614
+1901,"Coalinga city, CA",0.107,14274
+1901,"Easton CDP, CA",0.016,20928
+1901,"Firebaugh city, CA",0.052,24134
+1901,"Fowler city, CA",0.045,25436
+1901,"Fresno city, CA",0,27000
+1901,"Huron city, CA",0.039,36084
+1901,"Kerman city, CA",0.096,38226
+1901,"Kingsburg city, CA",0,38562
+1901,"Lanare CDP, CA",0.004,40116
+1901,"Laton CDP, CA",0.012,40746
+1901,"Mendota city, CA",0.063,46828
+1901,"Monmouth CDP, CA",0.001,48592
+1901,"Raisin City CDP, CA",0.002,59290
+1901,"Riverdale CDP, CA",0.023,61096
+1901,"San Joaquin city, CA",0.023,67126
+1901,"Selma city, CA",0.168,70882
+1901,"Three Rocks CDP, CA",0.001,78652
+1901,"Tranquillity CDP, CA",0.006,80266
+1901,Unincorporated_1901,0.311,99999
+1902,"Fort Washington CDP, CA",0.001,25300
+1902,"Fresno city, CA",0.922,27000
+1902,Unincorporated_1902,0.076,99999
+1903,"Clovis city, CA",0.023,14218
+1903,"Fresno city, CA",0.849,27000
+1903,"Mayfair CDP, CA",0.043,46400
+1903,"Tarpey Village CDP, CA",0.027,77960
+1903,Unincorporated_1903,0.058,99999
+1904,"Fresno city, CA",0.893,27000
+1904,"Old Fig Garden CDP, CA",0.04,53505
+1904,"West Park CDP, CA",0.006,84680
+1904,Unincorporated_1904,0.061,99999
+1905,"Calwa CDP, CA",0.017,10031
+1905,"Fresno city, CA",0.848,27000
+1905,"Malaga CDP, CA",0.009,45232
+1905,"Sunnyside CDP, CA",0.05,75994
+1905,Unincorporated_1905,0.077,99999
+1906,"Clovis city, CA",0.912,14218
+1906,"Fresno city, CA",0.012,27000
+1906,"Tarpey Village CDP, CA",0.011,77960
+1906,Unincorporated_1906,0.064,99999
+1907,"Auberry CDP, CA",0.021,3190
+1907,"Big Creek CDP, CA",0.003,6518
+1907,"Centerville CDP, CA",0.004,12412
+1907,"Clovis city, CA",0,14218
+1907,"Del Rey CDP, CA",0.009,18674
+1907,"Friant CDP, CA",0.006,27014
+1907,"Kingsburg city, CA",0.091,38562
+1907,"Minkler CDP, CA",0.01,47822
+1907,"Orange Cove city, CA",0.05,54008
+1907,"Parlier city, CA",0.078,55856
+1907,"Reedley city, CA",0.153,60242
+1907,"Sanger city, CA",0.159,67056
+1907,"Shaver Lake CDP, CA",0.047,71246
+1907,"Squaw Valley CDP, CA",0.032,73794
+1907,Unincorporated_1907,0.339,99999
+2300,"Alderpoint CDP, CA",0.002,786
+2300,"Arcata city, CA",0.125,2476
+2300,"Bayview CDP, CA",0.017,4478
+2300,"Benbow CDP, CA",0.003,5262
+2300,"Big Lagoon CDP, CA",0.002,6567
+2300,"Blue Lake city, CA",0.009,7162
+2300,"Cutten CDP, CA",0.022,17722
+2300,"Eureka city, CA",0.193,23042
+2300,"Ferndale city, CA",0.012,23910
+2300,"Fieldbrook CDP, CA",0.006,24008
+2300,"Fields Landing CDP, CA",0.002,24022
+2300,"Fortuna city, CA",0.081,25296
+2300,"Garberville CDP, CA",0.007,28154
+2300,"Humboldt Hill CDP, CA",0.023,34928
+2300,"Hydesville CDP, CA",0.008,36126
+2300,"Indianola CDP, CA",0.006,36420
+2300,"Loleta CDP, CA",0.006,42328
+2300,"McKinleyville CDP, CA",0.107,44910
+2300,"Manila CDP, CA",0.007,45414
+2300,"Miranda CDP, CA",0.004,48060
+2300,"Myers Flat CDP, CA",0.002,50146
+2300,"Myrtletown CDP, CA",0.035,50188
+2300,"Orick CDP, CA",0.003,54218
+2300,"Phillipsville CDP, CA",0.001,56854
+2300,"Pine Hills CDP, CA",0.022,57204
+2300,"Redcrest CDP, CA",0.001,59906
+2300,"Redway CDP, CA",0.011,60088
+2300,"Rio Dell city, CA",0.023,60900
+2300,"Samoa CDP, CA",0.002,64392
+2300,"Scotia CDP, CA",0.004,70518
+2300,"Shelter Cove CDP, CA",0.01,71372
+2300,"Trinidad city, CA",0.004,80448
+2300,"Weott CDP, CA",0.002,84004
+2300,"Westhaven-Moonstone CDP, CA",0.01,84385
+2300,"Willow Creek CDP, CA",0.018,85642
+2300,Unincorporated_2300,0.209,99999
+2500,"Bombay Beach CDP, CA",0.008,7372
+2500,"Brawley city, CA",0.147,8058
+2500,"Calexico city, CA",0.19,9710
+2500,"Calipatria city, CA",0.02,9878
+2500,"Desert Shores CDP, CA",0.008,19024
+2500,"El Centro city, CA",0.258,21782
+2500,"Heber CDP, CA",0.021,33084
+2500,"Holtville city, CA",0.035,34246
+2500,"Imperial city, CA",0.085,36280
+2500,"Niland CDP, CA",0.009,51392
+2500,"Ocotillo CDP, CA",0.006,53378
+2500,"Palo Verde CDP, CA",0.004,55422
+2500,"Salton City CDP, CA",0.036,64294
+2500,"Salton Sea Beach CDP, CA",0.006,64308
+2500,"Seeley CDP, CA",0.01,70798
+2500,"Westmorland city, CA",0.012,84606
+2500,"Winterhaven CDP, CA",0.003,86020
+2500,Unincorporated_2500,0.143,99999
+2901,"Bakersfield city, CA",0.096,3526
+2901,"Buttonwillow CDP, CA",0.008,9332
+2901,"Cherokee Strip CDP, CA",0.001,12860
+2901,"Delano city, CA",0.206,18394
+2901,"Derby Acres CDP, CA",0.003,18926
+2901,"Dustin Acres CDP, CA",0.005,20284
+2901,"Fellows CDP, CA",0.001,23812
+2901,"Ford City CDP, CA",0.027,24764
+2901,"Frazier Park CDP, CA",0.026,25534
+2901,"Lake of the Woods CDP, CA",0.009,39696
+2901,"Lebec CDP, CA",0.011,40956
+2901,"Lost Hills CDP, CA",0.009,44280
+2901,"McFarland city, CA",0.052,44826
+2901,"McKittrick CDP, CA",0.001,44924
+2901,"Maricopa city, CA",0.009,45736
+2901,"Mettler CDP, CA",0.001,47164
+2901,"Mexican Colony CDP, CA",0.002,47192
+2901,"Pine Mountain Club CDP, CA",0.042,57240
+2901,"Rosedale CDP, CA",0.073,62854
+2901,"Shafter city, CA",0.087,71106
+2901,"Smith Corner CDP, CA",0.003,72338
+2901,"South Taft CDP, CA",0.014,73388
+2901,"Taft city, CA",0.049,77574
+2901,"Taft Heights CDP, CA",0.015,77588
+2901,"Tupman CDP, CA",0.001,80784
+2901,"Valley Acres CDP, CA",0.004,81722
+2901,"Wasco city, CA",0.106,83542
+2901,Unincorporated_2901,0.14,99999
+2902,"Bakersfield city, CA",0.909,3526
+2902,"Greenacres CDP, CA",0.029,30938
+2902,"Rosedale CDP, CA",0.014,62854
+2902,Unincorporated_2902,0.048,99999
+2903,"Bakersfield city, CA",0.619,3526
+2903,Unincorporated_2903,0.381,99999
+2904,"Bakersfield city, CA",0.578,3526
+2904,"Fuller Acres CDP, CA",0.009,27190
+2904,"Greenfield CDP, CA",0.044,30987
+2904,"Lamont CDP, CA",0.116,40088
+2904,"Weedpatch CDP, CA",0.022,83863
+2904,Unincorporated_2904,0.232,99999
+2905,"Arvin city, CA",0.058,2924
+2905,"Bakersfield city, CA",0.001,3526
+2905,"Bear Valley Springs CDP, CA",0.035,4734
+2905,"Bodfish CDP, CA",0.015,7274
+2905,"Boron CDP, CA",0.016,7568
+2905,"California City city, CA",0.068,9780
+2905,"China Lake Acres CDP, CA",0.011,13157
+2905,"Edmundson Acres CDP, CA",0.001,21558
+2905,"Edwards AFB CDP, CA",0.01,21600
+2905,"Golden Hills CDP, CA",0.046,30282
+2905,"Inyokern CDP, CA",0.007,36658
+2905,"Johannesburg CDP, CA",0.002,37400
+2905,"Keene CDP, CA",0.003,37946
+2905,"Kernville CDP, CA",0.014,38310
+2905,"Lake Isabella CDP, CA",0.028,39570
+2905,"Lebec CDP, CA",0,40956
+2905,"Mojave CDP, CA",0.024,48452
+2905,"Mountain Mesa CDP, CA",0.005,49600
+2905,"North Edwards CDP, CA",0.007,51812
+2905,"Oildale CDP, CA",0.176,53448
+2905,"Onyx CDP, CA",0.004,53910
+2905,"Randsburg CDP, CA",0.001,59668
+2905,"Ridgecrest city, CA",0.155,60704
+2905,"Rosamond CDP, CA",0.09,62826
+2905,"Squirrel Mountain Valley CDP, CA",0.004,73815
+2905,"Stallion Springs CDP, CA",0.016,73868
+2905,"Tehachapi city, CA",0.046,78092
+2905,"Weldon CDP, CA",0.021,83948
+2905,"Wofford Heights CDP, CA",0.025,86174
+2905,Unincorporated_2905,0.113,99999
+3100,"Armona CDP, CA",0.027,2700
+3100,"Avenal city, CA",0.055,3302
+3100,"Corcoran city, CA",0.09,16224
+3100,"Grangeville CDP, CA",0.004,30686
+3100,"Hanford city, CA",0.422,31960
+3100,"Hardwick CDP, CA",0.001,32156
+3100,"Home Garden CDP, CA",0.011,34281
+3100,"Kettleman City CDP, CA",0.008,38394
+3100,"Lemoore city, CA",0.197,41152
+3100,"Lemoore Station CDP, CA",0.037,41166
+3100,"Stratford CDP, CA",0.007,75252
+3100,Unincorporated_3100,0.141,99999
+3300,"Albion CDP, CA",0.001,716
+3300,"Anchor Bay CDP, CA",0.004,2028
+3300,"Boonville CDP, CA",0.005,7512
+3300,"Brooktrails CDP, CA",0.019,8530
+3300,"Calpella CDP, CA",0.004,9990
+3300,"Caspar CDP, CA",0.004,11768
+3300,"Clearlake city, CA",0.106,13945
+3300,"Clearlake Oaks CDP, CA",0.024,13966
+3300,"Clearlake Riviera CDP, CA",0.021,13985
+3300,"Cleone CDP, CA",0.005,14008
+3300,"Cobb CDP, CA",0.014,14302
+3300,"Comptche CDP, CA",0.001,15030
+3300,"Covelo CDP, CA",0.007,16728
+3300,"Fort Bragg city, CA",0.042,25058
+3300,"Hidden Valley Lake CDP, CA",0.034,33549
+3300,"Hopland CDP, CA",0.004,34652
+3300,"Kelseyville CDP, CA",0.018,38044
+3300,"Lakeport city, CA",0.032,39710
+3300,"Laytonville CDP, CA",0.007,40928
+3300,"Leggett CDP, CA",0.001,41026
+3300,"Little River CDP, CA",0.001,41866
+3300,"Lower Lake CDP, CA",0.009,44350
+3300,"Lucerne CDP, CA",0.024,44406
+3300,"Manchester CDP, CA",0.001,45386
+3300,"Mendocino CDP, CA",0.008,46814
+3300,"Middletown CDP, CA",0.007,47332
+3300,"Nice CDP, CA",0.022,51294
+3300,"North Lakeport CDP, CA",0.023,51990
+3300,"Philo CDP, CA",0.002,56868
+3300,"Point Arena city, CA",0.003,57876
+3300,"Potter Valley CDP, CA",0.004,58506
+3300,"Redwood Valley CDP, CA",0.009,60214
+3300,"Soda Bay CDP, CA",0.009,72478
+3300,"Spring Valley CDP, CA",0.006,73690
+3300,"Talmage CDP, CA",0.005,77784
+3300,"Ukiah city, CA",0.086,81134
+3300,"Upper Lake CDP, CA",0.006,81358
+3300,"Willits city, CA",0.027,85600
+3300,Unincorporated_3300,0.394,99999
+3701,"Acton CDP, CA",0.063,212
+3701,"Agua Dulce CDP, CA",0.028,450
+3701,"Azusa city, CA",0.001,3386
+3701,"Castaic CDP, CA",0.132,11796
+3701,"Elizabeth Lake CDP, CA",0.017,21964
+3701,"Green Valley CDP, CA",0.011,31092
+3701,"Hasley Canyon CDP, CA",0.009,32385
+3701,"Lake Hughes CDP, CA",0.009,39556
+3701,"Lake Los Angeles CDP, CA",0.082,39612
+3701,"Lancaster city, CA",0.023,40130
+3701,"Leona Valley CDP, CA",0.014,41208
+3701,"Littlerock CDP, CA",0.01,41880
+3701,"Palmdale city, CA",0.017,55156
+3701,"Santa Clarita city, CA",0.108,69088
+3701,"Stevenson Ranch CDP, CA",0.13,74130
+3701,"Sun Village CDP, CA",0.073,77308
+3701,"Val Verde CDP, CA",0.016,81967
+3701,Unincorporated_3701,0.257,99999
+3702,"Santa Clarita city, CA",0.863,69088
+3702,Unincorporated_3702,0.137,99999
+3703,"Lancaster city, CA",0.908,40130
+3703,"Quartz Hill CDP, CA",0.053,59052
+3703,Unincorporated_3703,0.039,99999
+3704,"Acton CDP, CA",0,212
+3704,"Desert View Highlands CDP, CA",0.015,19052
+3704,"Lancaster city, CA",0.01,40130
+3704,"Leona Valley CDP, CA",0.001,41208
+3704,"Palmdale city, CA",0.907,55156
+3704,"Quartz Hill CDP, CA",0.021,59052
+3704,"Sun Village CDP, CA",0.001,77308
+3704,Unincorporated_3704,0.044,99999
+3705,"Los Angeles city, CA",0.987,44000
+3705,Unincorporated_3705,0.013,99999
+3706,"Los Angeles city, CA",1,44000
+3707,"Los Angeles city, CA",0.814,44000
+3707,"San Fernando city, CA",0.174,66140
+3707,Unincorporated_3707,0.011,99999
+3708,"Los Angeles city, CA",1,44000
+3708,Unincorporated_3708,0,99999
+3709,"Altadena CDP, CA",0.371,1290
+3709,"Glendale city, CA",0.007,30000
+3709,"La Cañada Flintridge city, CA",0.168,39003
+3709,"La Crescenta-Montrose CDP, CA",0.174,39045
+3709,"Monrovia city, CA",0.102,48648
+3709,"Pasadena city, CA",0.043,56000
+3709,"Sierra Madre city, CA",0.121,71806
+3709,Unincorporated_3709,0.013,99999
+3710,"Arcadia city, CA",0.003,2462
+3710,"Azusa city, CA",0.279,3386
+3710,"Baldwin Park city, CA",0.312,3666
+3710,"Bradbury city, CA",0.008,7946
+3710,"Citrus CDP, CA",0.054,13560
+3710,"Duarte city, CA",0.151,19990
+3710,"Glendora city, CA",0.007,30014
+3710,"Irwindale city, CA",0.008,36826
+3710,"Mayflower Village CDP, CA",0.041,46436
+3710,"Monrovia city, CA",0.077,48648
+3710,"South Monrovia Island CDP, CA",0.034,73167
+3710,"Vincent CDP, CA",0.014,82814
+3710,Unincorporated_3710,0.013,99999
+3711,"Charter Oak CDP, CA",0.047,12734
+3711,"Citrus CDP, CA",0.002,13560
+3711,"Claremont city, CA",0.206,13756
+3711,"Covina city, CA",0.02,16742
+3711,"Glendora city, CA",0.295,30014
+3711,"La Verne city, CA",0.198,40830
+3711,"Pomona city, CA",0.011,58072
+3711,"San Dimas city, CA",0.2,66070
+3711,Unincorporated_3711,0.021,99999
+3712,"Pomona city, CA",0.998,58072
+3712,Unincorporated_3712,0.002,99999
+3713,"Charter Oak CDP, CA",0.011,12734
+3713,"Covina city, CA",0.429,16742
+3713,"San Dimas city, CA",0.019,66070
+3713,"South San Jose Hills CDP, CA",0.01,73290
+3713,"Vincent CDP, CA",0.091,82814
+3713,"Walnut city, CA",0.253,83332
+3713,"West Covina city, CA",0.13,84200
+3713,Unincorporated_3713,0.056,99999
+3714,"Diamond Bar city, CA",0.524,19192
+3714,"Hacienda Heights CDP, CA",0,31596
+3714,"Industry city, CA",0,36490
+3714,"La Habra Heights city, CA",0.032,39304
+3714,"Pomona city, CA",0.007,58072
+3714,"Rowland Heights CDP, CA",0.43,63218
+3714,"South San Jose Hills CDP, CA",0.001,73290
+3714,Unincorporated_3714,0.007,99999
+3715,"Baldwin Park city, CA",0.039,3666
+3715,"Covina city, CA",0.017,16742
+3715,"South San Jose Hills CDP, CA",0.113,73290
+3715,"Valinda CDP, CA",0.028,81638
+3715,"Vincent CDP, CA",0.006,82814
+3715,"West Covina city, CA",0.797,84200
+3716,"Avocado Heights CDP, CA",0.15,3344
+3716,"Baldwin Park city, CA",0.056,3666
+3716,"Hacienda Heights CDP, CA",0,31596
+3716,"Industry city, CA",0.002,36490
+3716,"La Puente city, CA",0.373,40340
+3716,"South El Monte city, CA",0.014,72996
+3716,"Valinda CDP, CA",0.157,81638
+3716,"West Covina city, CA",0.037,84200
+3716,"West Puente Valley CDP, CA",0.187,84774
+3716,Unincorporated_3716,0.022,99999
+3717,"Arcadia city, CA",0.305,2462
+3717,"East Pasadena CDP, CA",0.032,20984
+3717,"East San Gabriel CDP, CA",0.08,21096
+3717,"El Monte city, CA",0.008,22230
+3717,"Monrovia city, CA",0.096,48648
+3717,"North El Monte CDP, CA",0.019,51820
+3717,"Pasadena city, CA",0,56000
+3717,"San Gabriel city, CA",0.176,67042
+3717,"San Marino city, CA",0.066,68224
+3717,"Temple City city, CA",0.18,78148
+3717,Unincorporated_3717,0.037,99999
+3718,"Altadena CDP, CA",0.005,1290
+3718,"Pasadena city, CA",0.978,56000
+3718,"San Pasqual CDP, CA",0.016,68308
+3719,"Glendale city, CA",1,30000
+3720,"Burbank city, CA",0.861,8954
+3720,"Los Angeles city, CA",0.139,44000
+3721,"Los Angeles city, CA",1,44000
+3722,"Los Angeles city, CA",1,44000
+3723,"Los Angeles city, CA",1,44000
+3724,"Los Angeles city, CA",1,44000
+3725,"Los Angeles city, CA",0.995,44000
+3725,Unincorporated_3725,0.005,99999
+3726,"Agoura Hills city, CA",0.184,394
+3726,"Calabasas city, CA",0.215,9598
+3726,"Hidden Hills city, CA",0.015,33518
+3726,"Los Angeles city, CA",0.165,44000
+3726,"Malibu city, CA",0.166,45246
+3726,"Topanga CDP, CA",0.091,78960
+3726,"Westlake Village city, CA",0.082,84438
+3726,Unincorporated_3726,0.083,99999
+3727,"Los Angeles city, CA",1,44000
+3727,Unincorporated_3727,0,99999
+3728,"Los Angeles city, CA",0.128,44000
+3728,"Santa Monica city, CA",0.872,70000
+3729,"Los Angeles city, CA",0.999,44000
+3729,Unincorporated_3729,0.001,99999
+3730,"Los Angeles city, CA",1,44000
+3731,"Beverly Hills city, CA",0.252,6308
+3731,"Los Angeles city, CA",0.371,44000
+3731,"West Hollywood city, CA",0.378,84410
+3732,"Los Angeles city, CA",1,44000
+3733,"Los Angeles city, CA",1,44000
+3734,"Los Angeles city, CA",1,44000
+3735,"Los Angeles city, CA",1,44000
+3735,"South Pasadena city, CA",0,73220
+3736,"Alhambra city, CA",0.699,884
+3736,"Los Angeles city, CA",0.05,44000
+3736,"South Pasadena city, CA",0.251,73220
+3737,"East Los Angeles CDP, CA",0.016,20802
+3737,"El Monte city, CA",0,22230
+3737,"Monterey Park city, CA",0.524,48914
+3737,"Rosemead city, CA",0.369,62896
+3737,"San Gabriel city, CA",0.035,67042
+3737,"South San Gabriel CDP, CA",0.052,73276
+3737,Unincorporated_3737,0.004,99999
+3738,"Arcadia city, CA",0,2462
+3738,"El Monte city, CA",0.864,22230
+3738,"South El Monte city, CA",0.132,72996
+3738,Unincorporated_3738,0.004,99999
+3739,"Hacienda Heights CDP, CA",0.308,31596
+3739,"Industry city, CA",0,36490
+3739,"La Habra Heights city, CA",0.014,39304
+3739,"Pico Rivera city, CA",0,56924
+3739,"Rose Hills CDP, CA",0.019,62860
+3739,"Santa Fe Springs city, CA",0,69154
+3739,"West Whittier-Los Nietos CDP, CA",0.119,84921
+3739,"Whittier city, CA",0.534,85292
+3739,Unincorporated_3739,0.006,99999
+3740,"East Los Angeles CDP, CA",0.005,20802
+3740,"Montebello city, CA",0.523,48816
+3740,"Pico Rivera city, CA",0.453,56924
+3740,"Rosemead city, CA",0.003,62896
+3740,"South San Gabriel CDP, CA",0.008,73276
+3740,Unincorporated_3740,0.009,99999
+3741,"Bell city, CA",0.258,4870
+3741,"Bell Gardens city, CA",0.28,4996
+3741,"Commerce city, CA",0.097,14974
+3741,"Cudahy city, CA",0.162,17498
+3741,"Huntington Park city, CA",0.014,36056
+3741,"Maywood city, CA",0.19,46492
+3742,"Florence-Graham CDP, CA",0.457,24477
+3742,"Huntington Park city, CA",0.454,36056
+3742,"Vernon city, CA",0.001,82422
+3742,"Walnut Park CDP, CA",0.088,83402
+3743,"East Los Angeles CDP, CA",0.999,20802
+3743,"Montebello city, CA",0.001,48816
+3744,"Los Angeles city, CA",1,44000
+3745,"Los Angeles city, CA",1,44000
+3746,"Los Angeles city, CA",1,44000
+3747,"Los Angeles city, CA",1,44000
+3748,"Culver City city, CA",0.203,17568
+3748,"Inglewood city, CA",0.001,36546
+3748,"Ladera Heights CDP, CA",0.033,39108
+3748,"Los Angeles city, CA",0.627,44000
+3748,"Marina del Rey CDP, CA",0.078,45806
+3748,"View Park-Windsor Hills CDP, CA",0.056,82667
+3748,Unincorporated_3748,0.001,99999
+3749,"Hawthorne city, CA",0,32548
+3749,"Inglewood city, CA",0.966,36546
+3749,"Lennox CDP, CA",0.034,41180
+3750,"Los Angeles city, CA",1,44000
+3751,"Los Angeles city, CA",1,44000
+3752,"Compton city, CA",0.004,15044
+3752,"East Rancho Dominguez CDP, CA",0.001,21034
+3752,"Lynwood city, CA",0.372,44574
+3752,"South Gate city, CA",0.589,73080
+3752,"Walnut Park CDP, CA",0.022,83402
+3752,Unincorporated_3752,0.012,99999
+3753,"Downey city, CA",1,19766
+3754,"East La Mirada CDP, CA",0.084,20746
+3754,"La Mirada city, CA",0.375,40032
+3754,"Santa Fe Springs city, CA",0.121,69154
+3754,"South Whittier CDP, CA",0.388,73430
+3754,"West Whittier-Los Nietos CDP, CA",0.013,84921
+3754,"Whittier city, CA",0.019,85292
+3755,"Bellflower city, CA",0.124,4982
+3755,"Downey city, CA",0.013,19766
+3755,"Norwalk city, CA",0.857,52526
+3755,"Santa Fe Springs city, CA",0.002,69154
+3755,Unincorporated_3755,0.004,99999
+3756,"Bellflower city, CA",0.588,4982
+3756,"Paramount city, CA",0.412,55618
+3757,"Carson city, CA",0.004,11530
+3757,"Compton city, CA",0.605,15044
+3757,"East Rancho Dominguez CDP, CA",0.078,21034
+3757,"West Rancho Dominguez CDP, CA",0.039,84780
+3757,"Willowbrook CDP, CA",0.238,85614
+3757,Unincorporated_3757,0.035,99999
+3758,"Alondra Park CDP, CA",0.054,1150
+3758,"Gardena city, CA",0.413,28168
+3758,"Hawthorne city, CA",0.019,32548
+3758,"Lawndale city, CA",0.195,40886
+3758,"Los Angeles city, CA",0.068,44000
+3758,"West Athens CDP, CA",0.047,84116
+3758,"Westmont CDP, CA",0.204,84592
+3759,"Del Aire CDP, CA",0.091,18352
+3759,"Hawthorne city, CA",0.77,32548
+3759,"Inglewood city, CA",0.005,36546
+3759,"Lennox CDP, CA",0.111,41180
+3759,"West Athens CDP, CA",0.006,84116
+3759,Unincorporated_3759,0.016,99999
+3760,"El Segundo city, CA",0.117,22412
+3760,"Hermosa Beach city, CA",0.161,33364
+3760,"Manhattan Beach city, CA",0.237,45400
+3760,"Redondo Beach city, CA",0.485,60018
+3761,"Torrance city, CA",1,80000
+3762,"Carson city, CA",0.778,11530
+3762,"West Carson CDP, CA",0.222,84144
+3763,"Carson city, CA",0,11530
+3763,"Lakewood city, CA",0.006,39892
+3763,"Long Beach city, CA",0.994,43000
+3764,"Artesia city, CA",0.091,2896
+3764,"Cerritos city, CA",0.308,12552
+3764,"Hawaiian Gardens city, CA",0.072,32506
+3764,"Lakewood city, CA",0.528,39892
+3764,Unincorporated_3764,0.001,99999
+3765,"Long Beach city, CA",0.991,43000
+3765,Unincorporated_3765,0.009,99999
+3766,"Long Beach city, CA",1,43000
+3767,"Los Angeles city, CA",0.989,44000
+3767,Unincorporated_3767,0.011,99999
+3768,"Avalon city, CA",0.049,3274
+3768,"Lomita city, CA",0.184,42468
+3768,"Palos Verdes Estates city, CA",0.115,55380
+3768,"Rancho Palos Verdes city, CA",0.353,59514
+3768,"Rolling Hills city, CA",0.016,62602
+3768,"Rolling Hills Estates city, CA",0.068,62644
+3768,"Torrance city, CA",0.19,80000
+3768,Unincorporated_3768,0.024,99999
+3769,"Long Beach city, CA",0.891,43000
+3769,"Signal Hill city, CA",0.109,71876
+3900,"Ahwahnee CDP, CA",0.021,478
+3900,"Bass Lake CDP, CA",0.022,4198
+3900,"Bonadelle Ranchos-Madera Ranchos CDP, CA",0.06,7379
+3900,"Chowchilla city, CA",0.085,13294
+3900,"Coarsegold CDP, CA",0.018,14288
+3900,"Fairmead CDP, CA",0.008,23210
+3900,"La Vina CDP, CA",0.001,40872
+3900,"Madera city, CA",0.347,45022
+3900,"Madera Acres CDP, CA",0.052,45050
+3900,"Nipinnawasee CDP, CA",0.004,51470
+3900,"Oakhurst CDP, CA",0.028,52764
+3900,"Parksdale CDP, CA",0.012,55751
+3900,"Parkwood CDP, CA",0.012,55842
+3900,"Rolling Hills CDP, CA",0.006,62625
+3900,"Yosemite Lakes CDP, CA",0.044,86878
+3900,Unincorporated_3900,0.28,99999
+4101,"Black Point-Green Point CDP, CA",0.013,6982
+4101,"Bolinas CDP, CA",0.021,7316
+4101,"Dillon Beach CDP, CA",0.009,19262
+4101,"Fairfax town, CA",0.052,23168
+4101,"Inverness CDP, CA",0.024,36616
+4101,"Lagunitas-Forest Knolls CDP, CA",0.019,39283
+4101,"Lucas Valley-Marinwood CDP, CA",0.052,44399
+4101,"Muir Beach CDP, CA",0.003,49950
+4101,"Nicasio CDP, CA",0.001,51280
+4101,"Novato city, CA",0.454,52582
+4101,"Point Reyes Station CDP, CA",0.011,57960
+4101,"San Geronimo CDP, CA",0.004,67070
+4101,"San Rafael city, CA",0.178,68364
+4101,"Santa Venetia CDP, CA",0.037,70154
+4101,"Sleepy Hollow CDP, CA",0,72184
+4101,"Stinson Beach CDP, CA",0.017,74172
+4101,"Tamalpais-Homestead Valley CDP, CA",0.001,77805
+4101,"Tomales CDP, CA",0.003,78890
+4101,"Woodacre CDP, CA",0.014,86216
+4101,Unincorporated_4101,0.086,99999
+4102,"Alto CDP, CA",0.005,1416
+4102,"Belvedere city, CA",0.016,5164
+4102,"Corte Madera town, CA",0.062,16462
+4102,"Fairfax town, CA",0.018,23168
+4102,"Kentfield CDP, CA",0.043,38114
+4102,"Larkspur city, CA",0.099,40438
+4102,"Marin City CDP, CA",0.02,45820
+4102,"Mill Valley city, CA",0.101,47710
+4102,"Ross town, CA",0.014,62980
+4102,"San Anselmo town, CA",0.086,64434
+4102,"San Rafael city, CA",0.243,68364
+4102,"Sausalito city, CA",0.07,70364
+4102,"Sleepy Hollow CDP, CA",0.013,72184
+4102,"Strawberry CDP, CA",0.042,75315
+4102,"Tamalpais-Homestead Valley CDP, CA",0.072,77805
+4102,"Tiburon town, CA",0.062,78666
+4102,Unincorporated_4102,0.034,99999
+4701,"Ballico CDP, CA",0.004,3708
+4701,"Cressey CDP, CA",0,17078
+4701,"Delhi CDP, CA",0.086,18464
+4701,"Dos Palos city, CA",0.051,19612
+4701,"Dos Palos Y CDP, CA",0.004,19654
+4701,"El Nido CDP, CA",0.003,22286
+4701,"Gustine city, CA",0.063,31568
+4701,"Hilmar-Irwin CDP, CA",0.055,33861
+4701,"Le Grand CDP, CA",0.015,41040
+4701,"Livingston city, CA",0.1,42006
+4701,"Los Banos city, CA",0.343,44028
+4701,"McSwain CDP, CA",0.001,45006
+4701,"Merced city, CA",0,46898
+4701,"Santa Nella CDP, CA",0.015,70028
+4701,"South Dos Palos CDP, CA",0.015,72954
+4701,"Stevinson CDP, CA",0.003,74144
+4701,"Volta CDP, CA",0.003,83108
+4701,Unincorporated_4701,0.238,99999
+4702,"Atwater city, CA",0.193,3162
+4702,"Bear Creek CDP, CA",0.002,4632
+4702,"Cressey CDP, CA",0.002,17078
+4702,"Franklin CDP, CA",0.038,25488
+4702,"McSwain CDP, CA",0.027,45006
+4702,"Merced city, CA",0.543,46898
+4702,"Planada CDP, CA",0.024,57582
+4702,"Snelling CDP, CA",0.002,72408
+4702,"Tuttle CDP, CA",0.001,80882
+4702,"Winton CDP, CA",0.06,86076
+4702,Unincorporated_4702,0.107,99999
+5301,"Aromas CDP, CA",0.006,2812
+5301,"Carmel-by-the-Sea city, CA",0.046,11250
+5301,"Carmel Valley Village CDP, CA",0.029,11324
+5301,"Castroville CDP, CA",0.021,11978
+5301,"Del Monte Forest CDP, CA",0.038,18590
+5301,"Del Rey Oaks city, CA",0.01,18688
+5301,"Elkhorn CDP, CA",0.008,22034
+5301,"Las Lomas CDP, CA",0.008,40592
+5301,"Marina city, CA",0.097,45778
+5301,"Monterey city, CA",0.184,48872
+5301,"Moss Landing CDP, CA",0.001,49488
+5301,"Pacific Grove city, CA",0.11,54848
+5301,"Pajaro CDP, CA",0.009,55044
+5301,"Prunedale CDP, CA",0.059,58870
+5301,"Sand City city, CA",0.002,65112
+5301,"Seaside city, CA",0.147,70742
+5301,Unincorporated_5301,0.224,99999
+5302,"Boronda CDP, CA",0.009,7578
+5302,"Prunedale CDP, CA",0.036,58870
+5302,"Salinas city, CA",0.913,64224
+5302,"Spreckels CDP, CA",0.005,73612
+5302,Unincorporated_5302,0.036,99999
+5303,"Aromas CDP, CA",0.013,2812
+5303,"Bradley CDP, CA",0.001,7974
+5303,"Chualar CDP, CA",0.007,13364
+5303,"Gonzales city, CA",0.055,30392
+5303,"Greenfield city, CA",0.104,30994
+5303,"Hollister city, CA",0.287,34120
+5303,"King City city, CA",0.089,38520
+5303,"Lockwood CDP, CA",0.005,42146
+5303,"Pine Canyon CDP, CA",0.016,57070
+5303,"Ridgemark CDP, CA",0.035,60706
+5303,"San Ardo CDP, CA",0.004,64476
+5303,"San Juan Bautista city, CA",0.021,68014
+5303,"San Lucas CDP, CA",0.002,68140
+5303,"Soledad city, CA",0.107,72520
+5303,"Tres Pinos CDP, CA",0.005,80364
+5303,Unincorporated_5303,0.249,99999
+5500,"American Canyon city, CA",0.109,1640
+5500,"Angwin CDP, CA",0.017,2168
+5500,"Calistoga city, CA",0.042,9892
+5500,"Deer Park CDP, CA",0.013,18324
+5500,"Moskowite Corner CDP, CA",0.002,49432
+5500,"Napa city, CA",0.551,50258
+5500,"Oakville CDP, CA",0.001,53196
+5500,"Rutherford CDP, CA",0.002,63400
+5500,"St. Helena city, CA",0.051,64140
+5500,"Silverado Resort CDP, CA",0.023,71927
+5500,"Yountville city, CA",0.023,86930
+5500,Unincorporated_5500,0.168,99999
+5700,"Alleghany CDP, CA",0.001,982
+5700,"Alta Sierra CDP, CA",0.055,1360
+5700,"Calpine CDP, CA",0.003,10004
+5700,"Downieville CDP, CA",0.004,19794
+5700,"Floriston CDP, CA",0.001,24526
+5700,"Goodyears Bar CDP, CA",0.001,30420
+5700,"Graniteville CDP, CA",0.001,30714
+5700,"Grass Valley city, CA",0.121,30798
+5700,"Kingvale CDP, CA",0.006,38604
+5700,"Lake of the Pines CDP, CA",0.032,39690
+5700,"Lake Wildwood CDP, CA",0.048,39885
+5700,"Loyalton city, CA",0.007,44364
+5700,"Nevada City city, CA",0.027,50874
+5700,"North San Juan CDP, CA",0.003,52246
+5700,"Penn Valley CDP, CA",0.012,56518
+5700,"Pike CDP, CA",0.002,57036
+5700,"Rough and Ready CDP, CA",0.009,63106
+5700,"Sattley CDP, CA",0.001,70336
+5700,"Sierra Brooks CDP, CA",0.004,71774
+5700,"Sierra City CDP, CA",0.005,71778
+5700,"Sierraville CDP, CA",0.002,71848
+5700,"Soda Springs CDP, CA",0.002,72492
+5700,"Truckee town, CA",0.233,80588
+5700,"Verdi CDP, CA",0.002,82334
+5700,"Washington CDP, CA",0.002,83570
+5700,Unincorporated_5700,0.416,99999
+5901,"Dana Point city, CA",0.215,17946
+5901,"Laguna Beach city, CA",0.023,39178
+5901,"Laguna Hills city, CA",0,39220
+5901,"Laguna Niguel city, CA",0.341,39248
+5901,"San Clemente city, CA",0.299,65084
+5901,"San Juan Capistrano city, CA",0.122,68028
+5902,"Lake Forest city, CA",0.015,39496
+5902,"Las Flores CDP, CA",0.021,40526
+5902,"Mission Viejo city, CA",0.851,48256
+5902,"Rancho Santa Margarita city, CA",0.092,59587
+5902,"San Juan Capistrano city, CA",0.02,68028
+5903,"Aliso Viejo city, CA",0.197,947
+5903,"Costa Mesa city, CA",0.002,16532
+5903,"Irvine city, CA",0.049,36770
+5903,"Laguna Beach city, CA",0.117,39178
+5903,"Laguna Hills city, CA",0.115,39220
+5903,"Laguna Woods city, CA",0.136,39259
+5903,"Newport Beach city, CA",0.38,51182
+5903,Unincorporated_5903,0.005,99999
+5904,"Costa Mesa city, CA",0,16532
+5904,"Irvine city, CA",0.899,36770
+5904,"Lake Forest city, CA",0.054,39496
+5904,"Newport Beach city, CA",0,51182
+5904,"Tustin city, CA",0.046,80854
+5905,"Anaheim city, CA",0.054,2000
+5905,"Irvine city, CA",0.125,36770
+5905,"Lake Forest city, CA",0.321,39496
+5905,"Mission Viejo city, CA",0.01,48256
+5905,"North Tustin CDP, CA",0.093,52379
+5905,"Orange city, CA",0.024,53980
+5905,"Santa Ana city, CA",0.027,69000
+5905,"Tustin city, CA",0.328,80854
+5905,Unincorporated_5905,0.017,99999
+5906,"Anaheim city, CA",0.031,2000
+5906,"Brea city, CA",0.225,8100
+5906,"Fullerton city, CA",0.006,28000
+5906,"La Habra city, CA",0.273,39290
+5906,"Placentia city, CA",0.08,57526
+5906,"Yorba Linda city, CA",0.361,86832
+5906,Unincorporated_5906,0.025,99999
+5907,"Anaheim city, CA",0.026,2000
+5907,"Brea city, CA",0.014,8100
+5907,"Buena Park city, CA",0.007,8786
+5907,"Fullerton city, CA",0.723,28000
+5907,"La Habra city, CA",0.046,39290
+5907,"Placentia city, CA",0.181,57526
+5907,Unincorporated_5907,0.003,99999
+5908,"Anaheim city, CA",0.014,2000
+5908,"Buena Park city, CA",0.328,8786
+5908,"Cypress city, CA",0.228,17750
+5908,"La Palma city, CA",0.081,40256
+5908,"Los Alamitos city, CA",0.067,43224
+5908,"Rossmoor CDP, CA",0.057,63050
+5908,"Seal Beach city, CA",0.221,70686
+5908,"Stanton city, CA",0.002,73962
+5908,Unincorporated_5908,0.002,99999
+5909,"Anaheim city, CA",0.857,2000
+5909,"Buena Park city, CA",0.067,8786
+5909,"Cypress city, CA",0.003,17750
+5909,"Garden Grove city, CA",0.005,29000
+5909,"Stanton city, CA",0.017,73962
+5909,Unincorporated_5909,0.051,99999
+5910,"Anaheim city, CA",0.922,2000
+5910,"Fullerton city, CA",0.001,28000
+5910,"Orange city, CA",0.077,53980
+5910,"Placentia city, CA",0,57526
+5911,"Anaheim city, CA",0.014,2000
+5911,"North Tustin CDP, CA",0.052,52379
+5911,"Orange city, CA",0.829,53980
+5911,"Santa Ana city, CA",0.017,69000
+5911,"Tustin city, CA",0,80854
+5911,"Villa Park city, CA",0.043,82744
+5911,Unincorporated_5911,0.044,99999
+5912,"Anaheim city, CA",0.036,2000
+5912,"Cypress city, CA",0.023,17750
+5912,"Fountain Valley city, CA",0.007,25380
+5912,"Garden Grove city, CA",0.128,29000
+5912,"Huntington Beach city, CA",0.037,36000
+5912,"Midway City CDP, CA",0.05,47430
+5912,"Stanton city, CA",0.202,73962
+5912,"Westminster city, CA",0.506,84550
+5912,Unincorporated_5912,0.01,99999
+5913,"Anaheim city, CA",0.041,2000
+5913,"Garden Grove city, CA",0.914,29000
+5913,"Orange city, CA",0.007,53980
+5913,"Santa Ana city, CA",0.033,69000
+5913,"Stanton city, CA",0.001,73962
+5913,"Westminster city, CA",0.003,84550
+5914,"Huntington Beach city, CA",0.971,36000
+5914,"Seal Beach city, CA",0.003,70686
+5914,"Sunset Beach CDP, CA",0.008,77126
+5914,"Westminster city, CA",0.018,84550
+5914,Unincorporated_5914,0,99999
+5915,"Coto de Caza CDP, CA",0.141,16580
+5915,"Ladera Ranch CDP, CA",0.216,39114
+5915,"Las Flores CDP, CA",0.033,40526
+5915,"Mission Viejo city, CA",0.014,48256
+5915,"Rancho Santa Margarita city, CA",0.399,59587
+5915,"San Clemente city, CA",0.11,65084
+5915,"San Juan Capistrano city, CA",0.061,68028
+5915,Unincorporated_5915,0.025,99999
+5916,"Fountain Valley city, CA",0.016,25380
+5916,"Garden Grove city, CA",0.04,29000
+5916,"Santa Ana city, CA",0.943,69000
+5916,"Westminster city, CA",0.002,84550
+5917,"Santa Ana city, CA",0.998,69000
+5917,"Tustin city, CA",0.002,80854
+5918,"Costa Mesa city, CA",0.611,16532
+5918,"Fountain Valley city, CA",0.266,25380
+5918,"Newport Beach city, CA",0.112,51182
+5918,Unincorporated_5918,0.01,99999
+6101,"Roseville city, CA",0.944,62938
+6101,"Sheridan CDP, CA",0,71414
+6101,Unincorporated_6101,0.056,99999
+6102,"Granite Bay CDP, CA",0.011,30693
+6102,"Lincoln city, CA",0.391,41474
+6102,"Loomis town, CA",0.056,43140
+6102,"Penryn CDP, CA",0.001,56546
+6102,"Rocklin city, CA",0.497,62364
+6102,"Roseville city, CA",0,62938
+6102,Unincorporated_6102,0.045,99999
+6103,"Alta CDP, CA",0.005,1276
+6103,"Auburn city, CA",0.105,3204
+6103,"Carnelian Bay CDP, CA",0.016,11418
+6103,"Colfax city, CA",0.016,14498
+6103,"Dollar Point CDP, CA",0.031,19455
+6103,"Dutch Flat CDP, CA",0.002,20298
+6103,"Foresthill CDP, CA",0.012,24834
+6103,"Granite Bay CDP, CA",0.12,30693
+6103,"Kings Beach CDP, CA",0.041,38548
+6103,"Kingvale CDP, CA",0,38604
+6103,"Lincoln city, CA",0.002,41474
+6103,"Meadow Vista CDP, CA",0.023,46632
+6103,"Newcastle CDP, CA",0.01,51000
+6103,"North Auburn CDP, CA",0.095,51637
+6103,"Penryn CDP, CA",0.005,56546
+6103,"Roseville city, CA",0.014,62938
+6103,"Sheridan CDP, CA",0.007,71414
+6103,"Sunnyside-Tahoe City CDP, CA",0.036,76015
+6103,"Tahoe Vista CDP, CA",0.025,77700
+6103,"Tahoma CDP, CA",0.015,77728
+6103,Unincorporated_6103,0.42,99999
+6501,"Blythe city, CA",0.088,7218
+6501,"Coachella city, CA",0.159,14260
+6501,"Desert Center CDP, CA",0.002,18982
+6501,"Desert Palms CDP, CA",0,19022
+6501,"Indio city, CA",0.46,36448
+6501,"Indio Hills CDP, CA",0.006,36452
+6501,"La Quinta city, CA",0.107,40354
+6501,"Mecca CDP, CA",0.032,46660
+6501,"Mesa Verde CDP, CA",0.006,47066
+6501,"North Shore CDP, CA",0.014,52302
+6501,"Oasis CDP, CA",0.025,53224
+6501,"Ripley CDP, CA",0.005,61012
+6501,"Thermal CDP, CA",0.012,78456
+6501,"Vista Santa Rosa CDP, CA",0.014,83085
+6501,Unincorporated_6501,0.071,99999
+6502,"Aguanga CDP, CA",0.003,464
+6502,"Anza CDP, CA",0.012,2294
+6502,"Cathedral City city, CA",0.254,12048
+6502,"Desert Hot Springs city, CA",0,18996
+6502,"Idyllwild-Pine Cove CDP, CA",0.05,36203
+6502,"Lake Riverside CDP, CA",0.006,39715
+6502,"Mountain Center CDP, CA",0.001,49544
+6502,"Palm Desert city, CA",0.043,55184
+6502,"Palm Springs city, CA",0.42,55254
+6502,"Rancho Mirage city, CA",0.172,59500
+6502,"Whitewater CDP, CA",0.005,85206
+6502,Unincorporated_6502,0.035,99999
+6503,"Aguanga CDP, CA",0.014,464
+6503,"Murrieta city, CA",0.076,50076
+6503,"Temecula city, CA",0.764,78120
+6503,"Wildomar city, CA",0.01,85446
+6503,Unincorporated_6503,0.136,99999
+6504,"French Valley CDP, CA",0.025,26067
+6504,"Lake Elsinore city, CA",0.009,39486
+6504,"Menifee city, CA",0.017,46842
+6504,"Murrieta city, CA",0.743,50076
+6504,"Temecula city, CA",0.005,78120
+6504,"Wildomar city, CA",0.186,85446
+6504,Unincorporated_6504,0.015,99999
+6505,"Canyon Lake city, CA",0.072,10928
+6505,"Good Hope CDP, CA",0.01,30410
+6505,"Lake Elsinore city, CA",0.252,39486
+6505,"Lakeland Village CDP, CA",0.063,39598
+6505,"Meadowbrook CDP, CA",0.014,46520
+6505,"Menifee city, CA",0.463,46842
+6505,"Perris city, CA",0.014,56700
+6505,"Romoland CDP, CA",0.007,62756
+6505,"Temescal Valley CDP, CA",0.033,78134
+6505,"Warm Springs CDP, CA",0.016,83460
+6505,"Wildomar city, CA",0.038,85446
+6505,"Winchester CDP, CA",0.009,85894
+6505,Unincorporated_6505,0.008,99999
+6506,"East Hemet CDP, CA",0.101,20697
+6506,"French Valley CDP, CA",0.095,26067
+6506,"Green Acres CDP, CA",0.007,30944
+6506,"Hemet city, CA",0.559,33182
+6506,"Homeland CDP, CA",0.022,34316
+6506,"Menifee city, CA",0.007,46842
+6506,"San Jacinto city, CA",0.02,67112
+6506,"Temecula city, CA",0.002,78120
+6506,"Valle Vista CDP, CA",0.082,81708
+6506,"Winchester CDP, CA",0.005,85894
+6506,Unincorporated_6506,0.099,99999
+6507,"Banning city, CA",0.223,3820
+6507,"Beaumont city, CA",0.237,4758
+6507,"Cabazon CDP, CA",0.017,9360
+6507,"Calimesa city, CA",0.068,9864
+6507,"Cherry Valley CDP, CA",0.053,12916
+6507,"Green Acres CDP, CA",0.004,30944
+6507,"Hemet city, CA",0.051,33182
+6507,"Lakeview CDP, CA",0.01,39836
+6507,"Nuevo CDP, CA",0.008,52624
+6507,"San Jacinto city, CA",0.253,67112
+6507,"Valle Vista CDP, CA",0.024,81708
+6507,Unincorporated_6507,0.053,99999
+6508,"Moreno Valley city, CA",0.993,49270
+6508,Unincorporated_6508,0.007,99999
+6509,"Canyon Lake city, CA",0.001,10928
+6509,"Corona city, CA",0.012,16350
+6509,"Good Hope CDP, CA",0.051,30410
+6509,"Homeland CDP, CA",0.029,34316
+6509,"Lake Mathews CDP, CA",0.032,39645
+6509,"Lakeview CDP, CA",0.002,39836
+6509,"Meadowbrook CDP, CA",0.009,46520
+6509,"Mead Valley CDP, CA",0.097,46646
+6509,"Nuevo CDP, CA",0.046,52624
+6509,"Perris city, CA",0.51,56700
+6509,"Romoland CDP, CA",0.002,62756
+6509,"Temescal Valley CDP, CA",0.163,78134
+6509,Unincorporated_6509,0.046,99999
+6510,"Highgrove CDP, CA",0.025,33574
+6510,"March ARB CDP, CA",0.015,45680
+6510,"Moreno Valley city, CA",0.071,49270
+6510,"Riverside city, CA",0.877,62000
+6510,Unincorporated_6510,0.012,99999
+6511,"El Sobrante CDP, CA",0.003,22457
+6511,"Norco city, CA",0.001,51560
+6511,"Riverside city, CA",0.996,62000
+6511,Unincorporated_6511,0,99999
+6512,"Corona city, CA",0.363,16350
+6512,"El Cerrito CDP, CA",0.048,21810
+6512,"El Sobrante CDP, CA",0.121,22457
+6512,"Home Gardens CDP, CA",0.095,34302
+6512,"Lake Mathews CDP, CA",0.03,39645
+6512,"Mead Valley CDP, CA",0.045,46646
+6512,"Riverside city, CA",0.129,62000
+6512,"Temescal Valley CDP, CA",0.003,78134
+6512,"Woodcrest CDP, CA",0.153,86244
+6512,Unincorporated_6512,0.013,99999
+6513,"Corona city, CA",0.816,16350
+6513,"Coronita CDP, CA",0.017,16420
+6513,"Norco city, CA",0.166,51560
+6513,Unincorporated_6513,0.001,99999
+6514,"Crestmore Heights CDP, CA",0.003,17204
+6514,"Eastvale CDP, CA",0.354,21230
+6514,"Glen Avon CDP, CA",0.151,29644
+6514,"Mira Loma CDP, CA",0.138,47976
+6514,"Pedley CDP, CA",0.089,56350
+6514,"Rubidoux CDP, CA",0.232,63260
+6514,"Sunnyslope CDP, CA",0.03,76022
+6514,Unincorporated_6514,0.002,99999
+6515,"Aguanga CDP, CA",0.001,464
+6515,"Anza CDP, CA",0.006,2294
+6515,"Bermuda Dunes CDP, CA",0.04,6028
+6515,"Cathedral City city, CA",0,12048
+6515,"Desert Edge CDP, CA",0.038,18986
+6515,"Desert Hot Springs city, CA",0.119,18996
+6515,"Desert Palms CDP, CA",0.055,19022
+6515,"Garnet CDP, CA",0.029,29112
+6515,"Indian Wells city, CA",0.056,36434
+6515,"Indio city, CA",0.004,36448
+6515,"Lake Riverside CDP, CA",0,39715
+6515,"La Quinta city, CA",0.184,40354
+6515,"Oasis CDP, CA",0,53224
+6515,"Palm Desert city, CA",0.367,55184
+6515,"Palm Springs city, CA",0,55254
+6515,"Sky Valley CDP, CA",0.019,72156
+6515,"Thousand Palms CDP, CA",0.041,78596
+6515,Unincorporated_6515,0.039,99999
+6701,"Antelope CDP, CA",0.007,2210
+6701,"Carmichael CDP, CA",0.107,11390
+6701,"Citrus Heights city, CA",0.79,13588
+6701,"Fair Oaks CDP, CA",0.034,23294
+6701,"Orangevale CDP, CA",0.062,54092
+6702,"Gold River CDP, CA",0.079,30345
+6702,"La Riviera CDP, CA",0.107,40410
+6702,"Mather CDP, CA",0.034,46226
+6702,"Rancho Cordova city, CA",0.574,59444
+6702,"Rosemont CDP, CA",0.203,62910
+6702,Unincorporated_6702,0.003,99999
+6703,"Arden-Arcade CDP, CA",0.372,2553
+6703,"Carmichael CDP, CA",0.474,11390
+6703,"Fair Oaks CDP, CA",0.153,23294
+6704,"Arden-Arcade CDP, CA",0.436,2553
+6704,"Citrus Heights city, CA",0.001,13588
+6704,"Foothill Farms CDP, CA",0.245,24722
+6704,"McClellan Park CDP, CA",0.004,44760
+6704,"North Highlands CDP, CA",0.313,51924
+6704,"Sacramento city, CA",0,64000
+6705,"Sacramento city, CA",0.992,64000
+6705,Unincorporated_6705,0.008,99999
+6706,"Antelope CDP, CA",0.381,2210
+6706,"Elverta CDP, CA",0.048,22524
+6706,"Rio Linda CDP, CA",0.134,60942
+6706,"Sacramento city, CA",0.436,64000
+6707,"Arden-Arcade CDP, CA",0.066,2553
+6707,"Sacramento city, CA",0.934,64000
+6708,"Florin CDP, CA",0.217,24498
+6708,"Fruitridge Pocket CDP, CA",0.039,27130
+6708,"Lemon Hill CDP, CA",0.093,41142
+6708,"Parkway CDP, CA",0.103,55800
+6708,"Sacramento city, CA",0.535,64000
+6708,"Vineyard CDP, CA",0.007,82852
+6708,Unincorporated_6708,0.006,99999
+6709,"Sacramento city, CA",1,64000
+6710,"Elk Grove city, CA",0.987,22020
+6710,"Florin CDP, CA",0.005,24498
+6710,"Franklin CDP, CA",0.001,25506
+6710,"Sacramento city, CA",0.007,64000
+6710,Unincorporated_6710,0,99999
+6711,"Clay CDP, CA",0.012,13854
+6711,"Courtland CDP, CA",0.004,16714
+6711,"Elk Grove city, CA",0.029,22020
+6711,"Florin CDP, CA",0.145,24498
+6711,"Franklin CDP, CA",0.001,25506
+6711,"Freeport CDP, CA",0.001,25590
+6711,"Galt city, CA",0.216,28112
+6711,"Herald CDP, CA",0.011,33294
+6711,"Hood CDP, CA",0.003,34484
+6711,"Isleton city, CA",0.012,36882
+6711,"Rancho Murieta CDP, CA",0.069,59506
+6711,"Sacramento city, CA",0.001,64000
+6711,"Vineyard CDP, CA",0.208,82852
+6711,"Walnut Grove CDP, CA",0.019,83374
+6711,"Wilton CDP, CA",0.059,85880
+6711,Unincorporated_6711,0.211,99999
+6712,"Fair Oaks CDP, CA",0.108,23294
+6712,"Folsom city, CA",0.63,24638
+6712,"Orangevale CDP, CA",0.262,54092
+7101,"Apple Valley town, CA",0,2364
+7101,"Baker CDP, CA",0.005,3512
+7101,"Barstow city, CA",0.142,4030
+7101,"Big River CDP, CA",0.016,6635
+7101,"Bluewater CDP, CA",0.009,7172
+7101,"Fort Irwin CDP, CA",0.037,25114
+7101,"Homestead Valley CDP, CA",0.033,34392
+7101,"Joshua Tree CDP, CA",0.057,37554
+7101,"Lenwood CDP, CA",0.019,41194
+7101,"Lucerne Valley CDP, CA",0.016,44420
+7101,"Morongo Valley CDP, CA",0.03,49348
+7101,"Needles city, CA",0.043,50734
+7101,"Searles Valley CDP, CA",0.014,70728
+7101,"Silver Lakes CDP, CA",0.041,71964
+7101,"Twentynine Palms city, CA",0.14,80994
+7101,"Victorville city, CA",0,82590
+7101,"Yucca Valley town, CA",0.142,87056
+7101,Unincorporated_7101,0.256,99999
+7102,"Adelanto city, CA",0.177,296
+7102,"Hesperia city, CA",0.005,33434
+7102,"Mountain View Acres CDP, CA",0.019,49684
+7102,"Spring Valley Lake CDP, CA",0.068,73700
+7102,"Victorville city, CA",0.706,82590
+7102,Unincorporated_7102,0.025,99999
+7103,"Apple Valley town, CA",0.448,2364
+7103,"Hesperia city, CA",0.498,33434
+7103,"Oak Hills CDP, CA",0.038,52760
+7103,"Victorville city, CA",0.006,82590
+7103,Unincorporated_7103,0.009,99999
+7104,"Apple Valley town, CA",0.003,2364
+7104,"Big Bear City CDP, CA",0.167,6406
+7104,"Big Bear Lake city, CA",0.133,6434
+7104,"Crestline CDP, CA",0.1,17162
+7104,"Fontana city, CA",0.001,24680
+7104,"Hesperia city, CA",0,33434
+7104,"Highland city, CA",0.001,33588
+7104,"Lake Arrowhead CDP, CA",0.163,39444
+7104,"Lucerne Valley CDP, CA",0.025,44420
+7104,"Lytle Creek CDP, CA",0.006,44644
+7104,"Muscoy CDP, CA",0,50132
+7104,"Oak Glen CDP, CA",0,52715
+7104,"Oak Hills CDP, CA",0.011,52760
+7104,"Phelan CDP, CA",0.07,56826
+7104,"Piñon Hills CDP, CA",0.041,57302
+7104,"Rancho Cucamonga city, CA",0,59451
+7104,"Rialto city, CA",0.008,60466
+7104,"Running Springs CDP, CA",0.051,63316
+7104,"San Antonio Heights CDP, CA",0.001,64462
+7104,"San Bernardino city, CA",0.05,65000
+7104,"Victorville city, CA",0.001,82590
+7104,"Wrightwood CDP, CA",0.037,86594
+7104,Unincorporated_7104,0.131,99999
+7105,"Highland city, CA",0.04,33588
+7105,"Loma Linda city, CA",0.01,42370
+7105,"Mentone CDP, CA",0.062,46884
+7105,"Oak Glen CDP, CA",0.004,52715
+7105,"Redlands city, CA",0.507,59962
+7105,"Yucaipa city, CA",0.374,87042
+7105,Unincorporated_7105,0.003,99999
+7106,"Bloomington CDP, CA",0.085,7064
+7106,"Colton city, CA",0.437,14890
+7106,"Grand Terrace city, CA",0.136,30658
+7106,"Loma Linda city, CA",0.261,42370
+7106,"Redlands city, CA",0.001,59962
+7106,"Rialto city, CA",0.015,60466
+7106,"San Bernardino city, CA",0.039,65000
+7106,Unincorporated_7106,0.027,99999
+7107,"Highland city, CA",0.434,33588
+7107,"Loma Linda city, CA",0.006,42370
+7107,"Redlands city, CA",0,59962
+7107,"San Bernardino city, CA",0.391,65000
+7107,Unincorporated_7107,0.168,99999
+7108,"Colton city, CA",0.003,14890
+7108,"Muscoy CDP, CA",0.047,50132
+7108,"Rialto city, CA",0.004,60466
+7108,"San Bernardino city, CA",0.92,65000
+7108,Unincorporated_7108,0.025,99999
+7109,"Bloomington CDP, CA",0.052,7064
+7109,"Colton city, CA",0.043,14890
+7109,"Fontana city, CA",0.089,24680
+7109,"Rialto city, CA",0.799,60466
+7109,"San Bernardino city, CA",0.003,65000
+7109,Unincorporated_7109,0.015,99999
+7110,"Bloomington CDP, CA",0.046,7064
+7110,"Fontana city, CA",0.871,24680
+7110,"Rialto city, CA",0.08,60466
+7110,Unincorporated_7110,0.003,99999
+7111,"Rancho Cucamonga city, CA",1,59451
+7111,Unincorporated_7111,0,99999
+7112,"Montclair city, CA",0.247,48788
+7112,"Ontario city, CA",0,53896
+7112,"San Antonio Heights CDP, CA",0.03,64462
+7112,"Upland city, CA",0.68,81344
+7112,Unincorporated_7112,0.043,99999
+7113,"Chino city, CA",0.034,13210
+7113,"Ontario city, CA",0.966,53896
+7114,"Chino city, CA",0.438,13210
+7114,"Chino Hills city, CA",0.513,13214
+7114,"Ontario city, CA",0.014,53896
+7114,Unincorporated_7114,0.035,99999
+7115,"Fontana city, CA",0.827,24680
+7115,Unincorporated_7115,0.173,99999
+7301,"Bonsall CDP, CA",0,7498
+7301,"Camp Pendleton North CDP, CA",0.019,10559
+7301,"Camp Pendleton South CDP, CA",0.044,10561
+7301,"Oceanside city, CA",0.871,53322
+7301,"Vista city, CA",0.009,82996
+7301,Unincorporated_7301,0.057,99999
+7302,"Alpine CDP, CA",0.113,1192
+7302,"Bonsall CDP, CA",0.034,7498
+7302,"Borrego Springs CDP, CA",0.053,7596
+7302,"Boulevard CDP, CA",0.004,7694
+7302,"Campo CDP, CA",0.023,10508
+7302,"Descanso CDP, CA",0.014,18940
+7302,"Escondido city, CA",0,22804
+7302,"Fallbrook CDP, CA",0.222,23462
+7302,"Hidden Meadows CDP, CA",0.032,33532
+7302,"Jacumba CDP, CA",0.006,37022
+7302,"Julian CDP, CA",0.019,37582
+7302,"Mount Laguna CDP, CA",0.003,49810
+7302,"Pine Valley CDP, CA",0.015,57260
+7302,"Potrero CDP, CA",0.004,58478
+7302,"Rainbow CDP, CA",0.015,59248
+7302,"Valley Center CDP, CA",0.065,81736
+7302,Unincorporated_7302,0.376,99999
+7303,"Oceanside city, CA",0.059,53322
+7303,"San Marcos city, CA",0.001,68196
+7303,"Vista city, CA",0.779,82996
+7303,Unincorporated_7303,0.161,99999
+7304,"Carlsbad city, CA",0.842,11194
+7304,"Lake San Marcos CDP, CA",0.002,39724
+7304,"Oceanside city, CA",0.11,53322
+7304,"San Marcos city, CA",0.002,68196
+7304,"Vista city, CA",0.042,82996
+7304,Unincorporated_7304,0.002,99999
+7305,"Escondido city, CA",0.23,22804
+7305,"Lake San Marcos CDP, CA",0.057,39724
+7305,"San Marcos city, CA",0.641,68196
+7305,"Vista city, CA",0.015,82996
+7305,Unincorporated_7305,0.057,99999
+7306,"Escondido city, CA",0.863,22804
+7306,"San Diego city, CA",0.001,66000
+7306,"Valley Center CDP, CA",0.002,81736
+7306,Unincorporated_7306,0.134,99999
+7307,"Bostonia CDP, CA",0.019,7624
+7307,"Crest CDP, CA",0.026,17106
+7307,"El Cajon city, CA",0.011,21712
+7307,"Eucalyptus Hills CDP, CA",0.049,23000
+7307,"Harbison Canyon CDP, CA",0.036,32044
+7307,"Lakeside CDP, CA",0.199,39766
+7307,"Poway city, CA",0.001,58520
+7307,"Ramona CDP, CA",0.182,59346
+7307,"San Diego city, CA",0,66000
+7307,"San Diego Country Estates CDP, CA",0.094,66004
+7307,"Santee city, CA",0.044,70224
+7307,"Winter Gardens CDP, CA",0.202,85992
+7307,Unincorporated_7307,0.138,99999
+7308,"Poway city, CA",0.342,58520
+7308,"San Diego city, CA",0.649,66000
+7308,Unincorporated_7308,0.009,99999
+7309,"Carlsbad city, CA",0.051,11194
+7309,"Encinitas city, CA",0.395,22678
+7309,"Fairbanks Ranch CDP, CA",0.019,23150
+7309,"Rancho Santa Fe CDP, CA",0.021,59584
+7309,"San Diego city, CA",0.268,66000
+7309,"San Marcos city, CA",0.021,68196
+7309,"Solana Beach city, CA",0.1,72506
+7309,Unincorporated_7309,0.125,99999
+7310,"Coronado city, CA",0.118,16378
+7310,"Del Mar city, CA",0.032,18506
+7310,"San Diego city, CA",0.851,66000
+7311,"Del Mar city, CA",0,18506
+7311,"San Diego city, CA",1,66000
+7312,"San Diego city, CA",1,66000
+7313,"Bostonia CDP, CA",0.08,7624
+7313,"Casa de Oro-Mount Helix CDP, CA",0.025,11691
+7313,"El Cajon city, CA",0.551,21712
+7313,"Granite Hills CDP, CA",0.017,30703
+7313,"La Mesa city, CA",0,40004
+7313,"Rancho San Diego CDP, CA",0.032,59550
+7313,"Santee city, CA",0.285,70224
+7313,Unincorporated_7313,0.009,99999
+7314,"Casa de Oro-Mount Helix CDP, CA",0.015,11691
+7314,"La Mesa city, CA",0.407,40004
+7314,"San Diego city, CA",0.577,66000
+7314,Unincorporated_7314,0,99999
+7315,"San Diego city, CA",1,66000
+7316,"San Diego city, CA",1,66000
+7317,"San Diego city, CA",1,66000
+7318,"Bonita CDP, CA",0.04,7414
+7318,"Chula Vista city, CA",0.005,13392
+7318,"La Presa CDP, CA",0.05,40326
+7318,"Lemon Grove city, CA",0.003,41124
+7318,"National City city, CA",0.004,50398
+7318,"San Diego city, CA",0.898,66000
+7318,Unincorporated_7318,0,99999
+7319,"Casa de Oro-Mount Helix CDP, CA",0.106,11691
+7319,"Chula Vista city, CA",0.023,13392
+7319,"Jamul CDP, CA",0.045,37120
+7319,"La Mesa city, CA",0.004,40004
+7319,"La Presa CDP, CA",0.188,40326
+7319,"Lemon Grove city, CA",0.198,41124
+7319,"Rancho San Diego CDP, CA",0.137,59550
+7319,"San Diego city, CA",0.025,66000
+7319,"Spring Valley CDP, CA",0.221,73696
+7319,Unincorporated_7319,0.053,99999
+7320,"Bonita CDP, CA",0.062,7414
+7320,"Chula Vista city, CA",0.915,13392
+7320,"La Presa CDP, CA",0.006,40326
+7320,"National City city, CA",0.014,50398
+7320,Unincorporated_7320,0.004,99999
+7321,"Bonita CDP, CA",0.002,7414
+7321,"Chula Vista city, CA",0.701,13392
+7321,"National City city, CA",0.285,50398
+7321,"San Diego city, CA",0,66000
+7321,Unincorporated_7321,0.011,99999
+7322,"Chula Vista city, CA",0.001,13392
+7322,"Imperial Beach city, CA",0.253,36294
+7322,"San Diego city, CA",0.746,66000
+7322,Unincorporated_7322,0,99999
+7501,"San Francisco city, CA",1,67000
+7502,"San Francisco city, CA",1,67000
+7503,"San Francisco city, CA",1,67000
+7504,"San Francisco city, CA",1,67000
+7505,"San Francisco city, CA",1,67000
+7506,"San Francisco city, CA",1,67000
+7507,"San Francisco city, CA",1,67000
+7701,"Lincoln Village CDP, CA",0.027,41558
+7701,"Morada CDP, CA",0.024,49180
+7701,"Stockton city, CA",0.914,75000
+7701,Unincorporated_7701,0.035,99999
+7702,"August CDP, CA",0.051,3209
+7702,"Country Club CDP, CA",0.075,16651
+7702,"Kennedy CDP, CA",0.017,38065
+7702,"Stockton city, CA",0.823,75000
+7702,"Taft Mosswood CDP, CA",0.007,77595
+7702,Unincorporated_7702,0.028,99999
+7703,"Lathrop city, CA",0.084,40704
+7703,"Manteca city, CA",0.368,45484
+7703,"Mountain House CDP, CA",0.052,49582
+7703,"Tracy city, CA",0.414,80238
+7703,Unincorporated_7703,0.083,99999
+7704,"Acampo CDP, CA",0.002,156
+7704,"Collierville CDP, CA",0.012,14708
+7704,"Dogtown CDP, CA",0.016,19440
+7704,"Escalon city, CA",0.045,22790
+7704,"Farmington CDP, CA",0.002,23630
+7704,"French Camp CDP, CA",0.01,26028
+7704,"Garden Acres CDP, CA",0.052,28182
+7704,"Linden CDP, CA",0.011,41670
+7704,"Lockeford CDP, CA",0.021,42104
+7704,"Lodi city, CA",0.406,42202
+7704,"Manteca city, CA",0.001,45484
+7704,"Peters CDP, CA",0.004,56798
+7704,"Ripon city, CA",0.088,61026
+7704,"Stockton city, CA",0.025,75000
+7704,"Taft Mosswood CDP, CA",0.001,77595
+7704,"Terminous CDP, CA",0.004,78232
+7704,"Thornton CDP, CA",0.006,78568
+7704,"Victor CDP, CA",0.002,82562
+7704,"Waterloo CDP, CA",0.004,83626
+7704,"Woodbridge CDP, CA",0.025,86230
+7704,Unincorporated_7704,0.265,99999
+7901,"Arroyo Grande city, CA",0.101,2868
+7901,"Avilla Beach CDP, CA",0.014,3330
+7901,"Blacklake CDP, CA",0.008,6935
+7901,"Callender CDP, CA",0.006,9948
+7901,"Cambria CDP, CA",0.054,10074
+7901,"Cayucos CDP, CA",0.031,12132
+7901,"Edna CDP, CA",0,21565
+7901,"Grover Beach city, CA",0.076,31393
+7901,"Los Berros CDP, CA",0.003,44042
+7901,"Los Osos CDP, CA",0.086,44182
+7901,"Los Ranchos CDP, CA",0.008,44242
+7901,"Morro Bay city, CA",0.084,49362
+7901,"Nipomo CDP, CA",0.076,51476
+7901,"Oceano CDP, CA",0.041,53294
+7901,"Pismo Beach city, CA",0.074,57414
+7901,"San Luis Obispo city, CA",0.272,68154
+7901,"San Simeon CDP, CA",0.004,68434
+7901,"Woodlands CDP, CA",0.006,86380
+7901,Unincorporated_7901,0.057,99999
+7902,"Atascadero city, CA",0.276,3064
+7902,"Creston CDP, CA",0.001,17232
+7902,"Edna CDP, CA",0.001,21565
+7902,"El Paso de Robles (Paso Robles) city, CA",0.274,22300
+7902,"Garden Farms CDP, CA",0.004,28210
+7902,"Lake Nacimiento CDP, CA",0.043,39670
+7902,"Nipomo CDP, CA",0,51476
+7902,"Oak Shores CDP, CA",0.015,53160
+7902,"San Miguel CDP, CA",0.019,68266
+7902,"Santa Margarita CDP, CA",0.013,69182
+7902,"Shandon CDP, CA",0.01,71134
+7902,"Templeton CDP, CA",0.072,78162
+7902,"Whitley Gardens CDP, CA",0.003,85222
+7902,Unincorporated_7902,0.268,99999
+8101,"Broadmoor CDP, CA",0.03,8338
+8101,"Colma town, CA",0.012,14736
+8101,"Daly City city, CA",0.639,17918
+8101,"Pacifica city, CA",0.308,54806
+8101,Unincorporated_8101,0.011,99999
+8102,"Brisbane city, CA",0.046,8310
+8102,"Daly City city, CA",0.059,17918
+8102,"San Bruno city, CA",0.369,65028
+8102,"South San Francisco city, CA",0.524,73262
+8102,Unincorporated_8102,0.001,99999
+8103,"Burlingame city, CA",0.303,9066
+8103,"Hillsborough town, CA",0.091,33798
+8103,"Millbrae city, CA",0.195,47486
+8103,"San Mateo city, CA",0.401,68252
+8103,Unincorporated_8103,0.01,99999
+8104,"El Granada CDP, CA",0.045,21936
+8104,"Foster City city, CA",0.258,25338
+8104,"Half Moon Bay city, CA",0.091,31708
+8104,"Highlands-Baywood Park CDP, CA",0.03,33633
+8104,"La Honda CDP, CA",0.01,39318
+8104,"Loma Mar CDP, CA",0.001,42384
+8104,"Montara CDP, CA",0.024,48760
+8104,"Moss Beach CDP, CA",0.024,49446
+8104,"Pescadero CDP, CA",0.004,56756
+8104,"San Mateo city, CA",0.472,68252
+8104,Unincorporated_8104,0.04,99999
+8105,"Belmont city, CA",0.216,5108
+8105,"Emerald Lake Hills CDP, CA",0.004,22587
+8105,"North Fair Oaks CDP, CA",0.001,51840
+8105,"Redwood City city, CA",0.522,60102
+8105,"San Carlos city, CA",0.235,65070
+8105,Unincorporated_8105,0.023,99999
+8106,"Atherton town, CA",0.063,3092
+8106,"East Palo Alto city, CA",0.196,20956
+8106,"Emerald Lake Hills CDP, CA",0.035,22587
+8106,"Ladera CDP, CA",0.014,39094
+8106,"Menlo Park city, CA",0.328,46870
+8106,"North Fair Oaks CDP, CA",0.102,51840
+8106,"Portola Valley town, CA",0.048,58380
+8106,"Redwood City city, CA",0.062,60102
+8106,"West Menlo Park CDP, CA",0.036,84536
+8106,"Woodside town, CA",0.054,86440
+8106,Unincorporated_8106,0.062,99999
+8301,"Orcutt CDP, CA",0.292,54120
+8301,"Santa Maria city, CA",0.692,69196
+8301,Unincorporated_8301,0.016,99999
+8302,"Ballard CDP, CA",0.005,3694
+8302,"Buellton city, CA",0.05,8758
+8302,"Casmalia CDP, CA",0.002,11754
+8302,"Cuyama CDP, CA",0.001,17727
+8302,"Garey CDP, CA",0.001,29070
+8302,"Goleta city, CA",0.012,30378
+8302,"Guadalupe city, CA",0.051,31414
+8302,"Lompoc city, CA",0.389,42524
+8302,"Los Alamos CDP, CA",0.018,43252
+8302,"Los Olivos CDP, CA",0.014,44168
+8302,"Mission Hills CDP, CA",0.033,48186
+8302,"New Cuyama CDP, CA",0.006,51028
+8302,"Orcutt CDP, CA",0.006,54120
+8302,"Santa Maria city, CA",0.067,69196
+8302,"Santa Ynez CDP, CA",0.051,70182
+8302,"Sisquoc CDP, CA",0.002,72086
+8302,"Solvang city, CA",0.067,72576
+8302,"Vandenberg AFB CDP, CA",0.028,82072
+8302,"Vandenberg Village CDP, CA",0.073,82086
+8302,Unincorporated_8302,0.123,99999
+8303,"Carpinteria city, CA",0.069,11446
+8303,"Goleta city, CA",0.14,30378
+8303,"Isla Vista CDP, CA",0.065,36868
+8303,"Mission Canyon CDP, CA",0.014,48147
+8303,"Montecito CDP, CA",0.054,48844
+8303,"Santa Barbara city, CA",0.482,69070
+8303,"Summerland CDP, CA",0.01,75714
+8303,"Toro Canyon CDP, CA",0.01,79529
+8303,Unincorporated_8303,0.156,99999
+8501,"Cupertino city, CA",0.007,17610
+8501,"Los Altos city, CA",0.133,43280
+8501,"Los Altos Hills town, CA",0.036,43294
+8501,"Loyola CDP, CA",0.015,44378
+8501,"Mountain View city, CA",0.41,49670
+8501,"Palo Alto city, CA",0.341,55282
+8501,"Stanford CDP, CA",0.048,73906
+8501,Unincorporated_8501,0.01,99999
+8502,"Cupertino city, CA",0.005,17610
+8502,"Milpitas city, CA",0,47766
+8502,"San Jose city, CA",0.011,68000
+8502,"Santa Clara city, CA",0.04,69084
+8502,"Sunnyvale city, CA",0.944,77000
+8502,Unincorporated_8502,0,99999
+8503,"Milpitas city, CA",0,47766
+8503,"San Jose city, CA",0.189,68000
+8503,"Santa Clara city, CA",0.81,69084
+8504,"Milpitas city, CA",0.509,47766
+8504,"San Jose city, CA",0.49,68000
+8504,Unincorporated_8504,0.002,99999
+8505,"Alum Rock CDP, CA",0.134,1458
+8505,"East Foothills CDP, CA",0.098,20598
+8505,"San Jose city, CA",0.75,68000
+8505,Unincorporated_8505,0.019,99999
+8506,"Gilroy city, CA",0.416,29504
+8506,"Morgan Hill city, CA",0.36,49278
+8506,"San Jose city, CA",0.003,68000
+8506,"San Martin CDP, CA",0.059,68238
+8506,Unincorporated_8506,0.161,99999
+8507,"Campbell city, CA",0.004,10345
+8507,"Cupertino city, CA",0.387,17610
+8507,"Lexington Hills CDP, CA",0.019,41282
+8507,"Los Altos city, CA",0.005,43280
+8507,"Los Gatos town, CA",0.232,44112
+8507,"Monte Sereno city, CA",0.025,48956
+8507,"San Jose city, CA",0.042,68000
+8507,"Santa Clara city, CA",0.016,69084
+8507,"Saratoga city, CA",0.21,70280
+8507,"Sunnyvale city, CA",0.011,77000
+8507,Unincorporated_8507,0.05,99999
+8508,"Campbell city, CA",0.288,10345
+8508,"Los Gatos town, CA",0.015,44112
+8508,"San Jose city, CA",0.694,68000
+8508,"Saratoga city, CA",0.003,70280
+8509,"Burbank CDP, CA",0.043,8968
+8509,"Campbell city, CA",0.004,10345
+8509,"Fruitdale CDP, CA",0.008,27080
+8509,"San Jose city, CA",0.945,68000
+8510,"Campbell city, CA",0.005,10345
+8510,"San Jose city, CA",0.988,68000
+8510,Unincorporated_8510,0.007,99999
+8511,"Cambrian Park CDP, CA",0.031,10088
+8511,"Campbell city, CA",0.029,10345
+8511,"Los Gatos town, CA",0.003,44112
+8511,"San Jose city, CA",0.937,68000
+8511,Unincorporated_8511,0,99999
+8512,"San Jose city, CA",0.98,68000
+8512,Unincorporated_8512,0.02,99999
+8513,"San Jose city, CA",0.993,68000
+8513,Unincorporated_8513,0.007,99999
+8514,"San Jose city, CA",1,68000
+8701,"Amesti CDP, CA",0.02,1651
+8701,"Aptos CDP, CA",0.014,2378
+8701,"Aptos Hills-Larkin Valley CDP, CA",0.018,2382
+8701,"Ben Lomond CDP, CA",0.051,5332
+8701,"Bonny Doon CDP, CA",0.024,7470
+8701,"Boulder Creek CDP, CA",0.048,7652
+8701,"Brookdale CDP, CA",0.018,8478
+8701,"Corralitos CDP, CA",0.017,16434
+8701,"Davenport CDP, CA",0.003,18086
+8701,"Day Valley CDP, CA",0.019,18153
+8701,"Felton CDP, CA",0.037,23826
+8701,"Freedom CDP, CA",0.016,25576
+8701,"Interlaken CDP, CA",0.034,36613
+8701,"Lompico CDP, CA",0.011,42510
+8701,"Mount Hermon CDP, CA",0.01,49796
+8701,"Paradise Park CDP, CA",0.006,55604
+8701,"Pasatiempo CDP, CA",0.009,56028
+8701,"Santa Cruz city, CA",0.026,69112
+8701,"Scotts Valley city, CA",0.09,70588
+8701,"Soquel CDP, CA",0.048,72688
+8701,"Watsonville city, CA",0.276,83668
+8701,"Zayante CDP, CA",0.007,87090
+8701,Unincorporated_8701,0.198,99999
+8702,"Aptos CDP, CA",0.037,2378
+8702,"Capitola city, CA",0.104,11040
+8702,"Day Valley CDP, CA",0.008,18153
+8702,"La Selva Beach CDP, CA",0.026,40508
+8702,"Live Oak CDP, CA",0.126,41922
+8702,"Pleasure Point CDP, CA",0.058,53924
+8702,"Pajaro Dunes CDP, CA",0.011,55048
+8702,"Paradise Park CDP, CA",0.001,55604
+8702,"Rio del Mar CDP, CA",0.092,60928
+8702,"Santa Cruz city, CA",0.412,69112
+8702,"Seacliff CDP, CA",0.036,70644
+8702,"Soquel CDP, CA",0.031,72688
+8702,"Twin Lakes CDP, CA",0.051,81050
+8702,"Watsonville city, CA",0,83668
+8702,Unincorporated_8702,0.008,99999
+8900,"Anderson city, CA",0.054,2042
+8900,"Bella Vista CDP, CA",0.014,4926
+8900,"Big Bend CDP, CA",0.001,6475
+8900,"Burney CDP, CA",0.019,9122
+8900,"Cassel CDP, CA",0.002,11782
+8900,"Cottonwood CDP, CA",0.017,16630
+8900,"Fall River Mills CDP, CA",0.004,23532
+8900,"French Gulch CDP, CA",0.002,26056
+8900,"Hat Creek CDP, CA",0.003,32408
+8900,"Keswick CDP, CA",0.003,38352
+8900,"Lakehead CDP, CA",0.004,39514
+8900,"McArthur CDP, CA",0.002,44700
+8900,"Millville CDP, CA",0.004,47724
+8900,"Montgomery Creek CDP, CA",0.001,48998
+8900,"Mountain Gate CDP, CA",0.006,49558
+8900,"Old Station CDP, CA",0.001,53602
+8900,"Palo Cedro CDP, CA",0.007,55296
+8900,"Redding city, CA",0.5,59920
+8900,"Round Mountain CDP, CA",0.001,63134
+8900,"Shasta CDP, CA",0.01,71218
+8900,"Shasta Lake city, CA",0.054,71225
+8900,"Shingletown CDP, CA",0.016,71568
+8900,Unincorporated_8900,0.275,99999
+9501,"Benicia city, CA",0.2,5290
+9501,"Vallejo city, CA",0.778,81666
+9501,Unincorporated_9501,0.022,99999
+9502,"Fairfield city, CA",0.761,23182
+9502,"Green Valley CDP, CA",0.015,31099
+9502,"Suisun City city, CA",0.193,75630
+9502,"Vacaville city, CA",0,81554
+9502,"Vallejo city, CA",0.01,81666
+9502,Unincorporated_9502,0.021,99999
+9503,"Allendale CDP, CA",0.012,996
+9503,"Dixon city, CA",0.13,19402
+9503,"Elmira CDP, CA",0.002,22146
+9503,"Hartley CDP, CA",0.02,32340
+9503,"Rio Vista city, CA",0.082,60984
+9503,"Vacaville city, CA",0.693,81554
+9503,Unincorporated_9503,0.061,99999
+9701,"Bloomfield CDP, CA",0.002,7036
+9701,"Bodega CDP, CA",0.002,7246
+9701,"Bodega Bay CDP, CA",0.012,7260
+9701,"Boyes Hot Springs CDP, CA",0.029,7848
+9701,"Carmet CDP, CA",0.001,11376
+9701,"Cazadero CDP, CA",0.004,12146
+9701,"Cloverdale city, CA",0.04,14190
+9701,"Eldridge CDP, CA",0.007,21894
+9701,"El Verano CDP, CA",0.019,22510
+9701,"Fetters Hot Springs-Agua Caliente CDP, CA",0.019,23973
+9701,"Forestville CDP, CA",0.019,24960
+9701,"Fulton CDP, CA",0,28014
+9701,"Geyserville CDP, CA",0.004,29420
+9701,"Glen Ellen CDP, CA",0.005,30028
+9701,"Graton CDP, CA",0.008,30812
+9701,"Guerneville CDP, CA",0.039,31470
+9701,"Healdsburg city, CA",0.056,33056
+9701,"Jenner CDP, CA",0.002,37274
+9701,"Kenwood CDP, CA",0.006,38156
+9701,"Larkfield-Wikiup CDP, CA",0.042,40426
+9701,"Monte Rio CDP, CA",0.011,48928
+9701,"Occidental CDP, CA",0.008,53266
+9701,"Salmon Creek CDP, CA",0.001,64252
+9701,"Santa Rosa city, CA",0.065,70098
+9701,"Sea Ranch CDP, CA",0.021,70712
+9701,"Sebastopol city, CA",0.041,70770
+9701,"Sereno del Mar CDP, CA",0.001,71000
+9701,"Sonoma city, CA",0.065,72646
+9701,"Temelec CDP, CA",0.012,78126
+9701,"Timber Cove CDP, CA",0.002,78715
+9701,"Valley Ford CDP, CA",0.001,81778
+9701,"Windsor town, CA",0.112,85922
+9701,Unincorporated_9701,0.342,99999
+9702,"Cotati city, CA",0.066,16560
+9702,"Penngrove CDP, CA",0.024,56476
+9702,"Petaluma city, CA",0.478,56784
+9702,"Rohnert Park city, CA",0.348,62546
+9702,Unincorporated_9702,0.084,99999
+9703,"Fulton CDP, CA",0.003,28014
+9703,"Larkfield-Wikiup CDP, CA",0,40426
+9703,"Roseland CDP, CA",0.025,62868
+9703,"Santa Rosa city, CA",0.86,70098
+9703,Unincorporated_9703,0.111,99999
+9901,"Ceres city, CA",0.386,12524
+9901,"Cowan CDP, CA",0.003,16762
+9901,"Crows Landing CDP, CA",0.004,17428
+9901,"Diablo Grande CDP, CA",0.012,19155
+9901,"Grayson CDP, CA",0.008,30882
+9901,"Keyes CDP, CA",0.045,38422
+9901,"Modesto city, CA",0.001,48354
+9901,"Monterey Park Tract CDP, CA",0.001,48916
+9901,"Newman city, CA",0.095,51140
+9901,"Parklawn CDP, CA",0.01,55728
+9901,"Patterson city, CA",0.179,56112
+9901,"Riverdale Park CDP, CA",0.009,61106
+9901,"Salida CDP, CA",0.077,64210
+9901,"Shackelford CDP, CA",0.003,71084
+9901,"Westley CDP, CA",0.004,84480
+9901,"West Modesto CDP, CA",0.001,84578
+9901,Unincorporated_9901,0.163,99999
+9902,"Bret Harte CDP, CA",0.032,8172
+9902,"Bystrom CDP, CA",0.028,9353
+9902,"Modesto city, CA",0.833,48354
+9902,"Rouse CDP, CA",0.013,63168
+9902,"Shackelford CDP, CA",0.023,71084
+9902,"West Modesto CDP, CA",0.043,84578
+9902,Unincorporated_9902,0.028,99999
+9903,"Del Rio CDP, CA",0.008,18695
+9903,"Denair CDP, CA",0.025,18856
+9903,"East Oakdale CDP, CA",0.018,20907
+9903,"Empire CDP, CA",0.022,22622
+9903,"Hickman CDP, CA",0.003,33504
+9903,"Hughson city, CA",0.036,34904
+9903,"Keyes CDP, CA",0.002,38422
+9903,"Modesto city, CA",0.003,48354
+9903,"Oakdale city, CA",0.128,52694
+9903,"Riverbank city, CA",0.115,61068
+9903,"Salida CDP, CA",0.024,64210
+9903,"Turlock city, CA",0.402,80812
+9903,"Valley Home CDP, CA",0.001,81792
+9903,"Waterford city, CA",0.043,83612
+9903,Unincorporated_9903,0.169,99999
+9904,"Airport CDP, CA",0.014,535
+9904,"Modesto city, CA",0.974,48354
+9904,Unincorporated_9904,0.012,99999
+10100,"Beale AFB CDP, CA",0.014,4576
+10100,"Camptonville CDP, CA",0.001,10676
+10100,"Challenge-Brownsville CDP, CA",0.01,12612
+10100,"Dobbins CDP, CA",0.005,19416
+10100,"East Nicolaus CDP, CA",0.002,20900
+10100,"Linda CDP, CA",0.099,41572
+10100,"Live Oak city, CA",0.041,41936
+10100,"Loma Rica CDP, CA",0.016,42412
+10100,"Marysville city, CA",0.084,46170
+10100,"Meridian CDP, CA",0.003,46926
+10100,"Nicolaus CDP, CA",0.002,51336
+10100,"Olivehurst CDP, CA",0.073,53714
+10100,"Plumas Lake CDP, CA",0.031,57829
+10100,"Rio Oso CDP, CA",0.002,60970
+10100,"Robbins CDP, CA",0.002,62168
+10100,"Smartsville CDP, CA",0.001,72282
+10100,"Sutter CDP, CA",0.018,77378
+10100,"Trowbridge CDP, CA",0.001,80560
+10100,"Wheatland city, CA",0.022,85012
+10100,"Yuba City city, CA",0.377,86972
+10100,Unincorporated_10100,0.197,99999
+10701,"Goshen CDP, CA",0.018,30476
+10701,"Patterson Tract CDP, CA",0.011,56120
+10701,"Visalia city, CA",0.931,82954
+10701,"West Goshen CDP, CA",0.003,84345
+10701,Unincorporated_10701,0.037,99999
+10702,"East Porterville CDP, CA",0.038,21012
+10702,"East Tulare Villa CDP, CA",0.005,21210
+10702,"Matheny CDP, CA",0.007,46223
+10702,"Plainview CDP, CA",0.005,57568
+10702,"Poplar-Cotton Center CDP, CA",0.013,58191
+10702,"Porterville city, CA",0.361,58240
+10702,"Strathmore CDP, CA",0.016,75280
+10702,"Tulare city, CA",0.407,80644
+10702,"Waukena CDP, CA",0.001,83724
+10702,Unincorporated_10702,0.147,99999
+10703,"Allensworth CDP, CA",0.003,1010
+10703,"Alpaugh CDP, CA",0.005,1164
+10703,"California Hot Springs CDP, CA",0.001,9822
+10703,"Camp Nelson CDP, CA",0.008,10494
+10703,"Cedar Slope CDP, CA",0.002,12314
+10703,"Cutler CDP, CA",0.024,17708
+10703,"Delft Colony CDP, CA",0.003,18450
+10703,"Dinuba city, CA",0.123,19318
+10703,"Ducor CDP, CA",0.003,20032
+10703,"Earlimart CDP, CA",0.042,20438
+10703,"East Orosi CDP, CA",0.002,20942
+10703,"El Rancho CDP, CA",0.001,22360
+10703,"Exeter city, CA",0.075,23126
+10703,"Farmersville city, CA",0.057,23616
+10703,"Hartland CDP, CA",0.001,32324
+10703,"Idlewild CDP, CA",0.001,36168
+10703,"Ivanhoe CDP, CA",0.025,36910
+10703,"Kennedy Meadows CDP, CA",0.002,38076
+10703,"Lemon Cove CDP, CA",0.003,41110
+10703,"Lindcove CDP, CA",0.003,41656
+10703,"Lindsay city, CA",0.067,41712
+10703,"Linnell Camp CDP, CA",0.004,41740
+10703,"London CDP, CA",0.009,42566
+10703,"McClenney Tract CDP, CA",0.001,44770
+10703,"Monson CDP, CA",0.001,48676
+10703,"Orosi CDP, CA",0.043,54372
+10703,"Panorama Heights CDP, CA",0.003,55506
+10703,"Pierpoint CDP, CA",0.002,57011
+10703,"Pine Flat CDP, CA",0.006,57134
+10703,"Pixley CDP, CA",0.018,57512
+10703,"Ponderosa CDP, CA",0.003,58134
+10703,"Posey CDP, CA",0,58422
+10703,"Poso Park CDP, CA",0.001,58436
+10703,"Richgrove CDP, CA",0.013,60606
+10703,"Rodriguez Camp CDP, CA",0.001,62496
+10703,"Sequoia Crest CDP, CA",0.002,70966
+10703,"Seville CDP, CA",0.002,71078
+10703,"Silver City CDP, CA",0.001,71932
+10703,"Springville CDP, CA",0.011,73710
+10703,"Sugarloaf Saw Mill CDP, CA",0.001,75592
+10703,"Sugarloaf Village CDP, CA",0.001,75596
+10703,"Sultana CDP, CA",0.005,75672
+10703,"Terra Bella CDP, CA",0.017,78288
+10703,"Teviston CDP, CA",0.007,78336
+10703,"Three Rivers CDP, CA",0.027,78638
+10703,"Tipton CDP, CA",0.013,78750
+10703,"Tonyville CDP, CA",0.001,78932
+10703,"Tooleville CDP, CA",0.002,78949
+10703,"Traver CDP, CA",0.004,80280
+10703,"Visalia city, CA",0,82954
+10703,"Wilsonia CDP, CA",0.004,85866
+10703,"Woodlake city, CA",0.043,86300
+10703,"Woodville CDP, CA",0.009,86482
+10703,"Yettem CDP, CA",0.001,86734
+10703,Unincorporated_10703,0.291,99999
+11101,"Santa Susana CDP, CA",0.011,70140
+11101,"Simi Valley city, CA",0.983,72016
+11101,Unincorporated_11101,0.006,99999
+11102,"Bell Canyon CDP, CA",0.012,4938
+11102,"Casa Conejo CDP, CA",0.018,11656
+11102,"Lake Sherwood CDP, CA",0.004,39735
+11102,"Oak Park CDP, CA",0.094,53116
+11102,"Simi Valley city, CA",0,72016
+11102,"Thousand Oaks city, CA",0.846,78582
+11102,Unincorporated_11102,0.025,99999
+11103,"Channel Islands Beach CDP, CA",0.034,12669
+11103,"Oxnard city, CA",0.82,54652
+11103,"Port Hueneme city, CA",0.146,58296
+11103,Unincorporated_11103,0,99999
+11104,"El Rio CDP, CA",0,22370
+11104,"Oxnard city, CA",0.075,54652
+11104,"San Buenaventura (Ventura) city, CA",0.911,65042
+11104,"Saticoy CDP, CA",0.006,70322
+11104,Unincorporated_11104,0.008,99999
+11105,"El Rio CDP, CA",0.042,22370
+11105,"Fillmore city, CA",0.11,24092
+11105,"Meiners Oaks CDP, CA",0.035,46702
+11105,"Mira Monte CDP, CA",0.075,48046
+11105,"Moorpark city, CA",0.057,49138
+11105,"Oak View CDP, CA",0.038,53182
+11105,"Ojai city, CA",0.084,53476
+11105,"Oxnard city, CA",0.013,54652
+11105,"Piru CDP, CA",0.014,57372
+11105,"San Buenaventura (Ventura) city, CA",0,65042
+11105,"Santa Paula city, CA",0.217,70042
+11105,"Simi Valley city, CA",0.109,72016
+11105,Unincorporated_11105,0.205,99999
+11106,"Camarillo city, CA",0.585,10046
+11106,"Lake Sherwood CDP, CA",0.009,39735
+11106,"Moorpark city, CA",0.192,49138
+11106,"Oxnard city, CA",0.071,54652
+11106,"Santa Rosa Valley CDP, CA",0.026,70130
+11106,"Thousand Oaks city, CA",0,78582
+11106,Unincorporated_11106,0.118,99999
+11300,"Clarksburg CDP, CA",0.002,13784
+11300,"Davis city, CA",0.345,18100
+11300,"Dunnigan CDP, CA",0.007,20228
+11300,"Esparto CDP, CA",0.014,22846
+11300,"Guinda CDP, CA",0.002,31540
+11300,"Knights Landing CDP, CA",0.005,38800
+11300,"Madison CDP, CA",0.002,45064
+11300,"Monument Hills CDP, CA",0.008,49045
+11300,"University of California Davis CDP, CA",0.015,81302
+11300,"West Sacramento city, CA",0.249,84816
+11300,"Winters city, CA",0.031,86034
+11300,"Woodland city, CA",0.264,86328
+11300,"Yolo CDP, CA",0.002,86804
+11300,Unincorporated_11300,0.055,99999
