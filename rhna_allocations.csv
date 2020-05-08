@@ -1,0 +1,110 @@
+County,Place,Very Low,Low,Mod,Above Mod,TOTAL
+Alameda,"Alameda city, CA",444,248,283,748,1723
+Alameda,"Albany city, CA",80,53,57,145,335
+Alameda,"Berkeley city, CA",532,442,584,1401,2959
+Alameda,"Dublin city, CA",796,446,425,618,2285
+Alameda,"Emeryville city, CA",276,211,259,752,1498
+Alameda,"Fremont city, CA",1714,926,978,1837,5455
+Alameda,"Hayward city, CA",851,480,608,1981,3920
+Alameda,"Livermore city, CA",839,474,496,920,2729
+Alameda,"Newark city, CA",330,167,158,423,1078
+Alameda,"Oakland city, CA",2059,2075,2815,7816,14765
+Alameda,"Piedmont city, CA",24,14,15,7,60
+Alameda,"Pleasanton city, CA",716,391,407,553,2067
+Alameda,"San Leandro city, CA",504,270,352,1161,2287
+Alameda,"Union City city, CA",317,180,192,417,1106
+Alameda,Unincorporated_Alameda,430,227,295,817,1769
+Contra Costa,"Antioch city, CA",349,205,214,680,1448
+Contra Costa,"Brentwood city, CA",234,124,123,279,760
+Contra Costa,"Clayton city, CA",51,25,31,34,141
+Contra Costa,"Concord city, CA",798,444,559,1677,3478
+Contra Costa,"Danville town, CA",196,111,124,126,557
+Contra Costa,"El Cerrito city, CA",100,63,69,166,398
+Contra Costa,"Hercules city, CA",220,118,100,244,682
+Contra Costa,"Lafayette city, CA",138,78,85,99,400
+Contra Costa,"Martinez city, CA",124,72,78,195,469
+Contra Costa,"Moraga city, CA",75,44,50,60,229
+Contra Costa,"Oakley city, CA",317,174,175,502,1168
+Contra Costa,"Orinda city, CA",84,47,54,42,227
+Contra Costa,"Pinole city, CA",80,48,43,126,297
+Contra Costa,"Pittsburg city, CA",392,254,316,1063,2025
+Contra Costa,"Pleasant Hill city, CA",118,69,84,177,448
+Contra Costa,"Richmond city, CA",438,305,410,1282,2435
+Contra Costa,"San Pablo city, CA",56,53,75,265,449
+Contra Costa,"San Ramon city, CA",516,279,282,340,1417
+Contra Costa,"Walnut Creek city, CA",604,355,381,895,2235
+Contra Costa,Unincorporated_Contra Costa,374,218,243,532,1367
+Marin,"Belvedere city, CA",4,3,4,5,16
+Marin,"Corte Madera town, CA",22,13,13,24,72
+Marin,"Fairfax town, CA",16,11,11,23,61
+Marin,"Larkspur city, CA",40,20,21,51,132
+Marin,"Mill Valley city, CA",41,24,26,38,129
+Marin,"Novato city, CA",111,65,72,167,415
+Marin,"Ross town, CA",6,4,4,4,18
+Marin,"San Anselmo town, CA",33,17,19,37,106
+Marin,"San Rafael city, CA",240,148,181,438,1007
+Marin,"Sausalito city, CA",26,14,16,23,79
+Marin,"Tiburon town, CA",24,16,19,19,78
+Marin,Unincorporated_Marin,55,32,37,61,185
+Napa,"American Canyon city, CA",116,54,58,164,392
+Napa,"Calistoga city, CA",6,2,4,15,27
+Napa,"Napa city, CA",185,106,141,403,835
+Napa,"St. Helena city, CA",8,5,5,13,31
+Napa,"Yountville town, CA",4,2,3,8,17
+Napa,Unincorporated_Napa,51,30,32,67,180
+San Francisco,"San Francisco city, CA",6234,4639,5460,12536,28869
+San Mateo,"Atherton town, CA",35,26,29,3,93
+San Mateo,"Belmont city, CA",116,63,67,222,468
+San Mateo,"Brisbane city, CA",25,13,15,30,83
+San Mateo,"Burlingame city, CA",276,144,155,288,863
+San Mateo,"Colma town, CA",20,8,9,22,59
+San Mateo,"Daly City city, CA",400,188,221,541,1350
+San Mateo,"East Palo Alto city, CA",64,54,83,266,467
+San Mateo,"Foster City city, CA",148,87,76,119,430
+San Mateo,"Half Moon Bay city, CA",52,31,36,121,240
+San Mateo,"Hillsborough town, CA",32,17,21,21,91
+San Mateo,"Menlo Park city, CA",233,129,143,150,655
+San Mateo,"Millbrae city, CA",193,101,112,257,663
+San Mateo,"Pacifica city, CA",121,68,70,154,413
+San Mateo,"Portola Valley town, CA",21,15,15,13,64
+San Mateo,"Redwood City city, CA",706,429,502,1152,2789
+San Mateo,"San Bruno city, CA",358,161,205,431,1155
+San Mateo,"San Carlos city, CA",195,107,111,183,596
+San Mateo,"San Mateo city, CA",859,469,530,1242,3100
+San Mateo,"South San Francisco city, CA",565,281,313,705,1864
+San Mateo,"Woodside town, CA",23,13,15,11,62
+San Mateo,Unincorporated_San Mateo,153,103,102,555,913
+Santa Clara,"Campbell city, CA",253,138,151,391,933
+Santa Clara,"Cupertino city, CA",356,207,231,270,1064
+Santa Clara,"Gilroy city, CA",236,160,217,475,1088
+Santa Clara,"Los Altos city, CA",169,99,112,97,477
+Santa Clara,"Los Altos Hills town, CA",46,28,32,15,121
+Santa Clara,"Los Gatos town, CA",201,112,132,174,619
+Santa Clara,"Milpitas city, CA",1004,570,565,1151,3290
+Santa Clara,"Monte Sereno city, CA",23,13,13,12,61
+Santa Clara,"Morgan Hill city, CA",273,154,185,316,928
+Santa Clara,"Mountain View city, CA",814,492,527,1093,2926
+Santa Clara,"Palo Alto city, CA",691,432,278,587,1988
+Santa Clara,"San Jose city, CA",9233,5428,6188,14231,35080
+Santa Clara,"Santa Clara city, CA",1050,695,755,1593,4093
+Santa Clara,"Saratoga city, CA",147,95,104,93,439
+Santa Clara,"Sunnyvale city, CA",1640,906,932,1974,5452
+Santa Clara,Unincorporated_Santa Clara,22,13,214,28,277
+Solano,"Benicia city, CA",94,54,56,123,327
+Solano,"Dixon city, CA",50,24,30,93,197
+Solano,"Fairfield city, CA",779,404,456,1461,3100
+Solano,"Rio Vista city, CA",45,36,48,170,299
+Solano,"Suisun City city, CA",147,57,60,241,505
+Solano,"Vacaville city, CA",287,134,173,490,1084
+Solano,"Vallejo city, CA",283,178,211,690,1362
+Solano,Unincorporated_Solano,26,15,19,43,103
+Sonoma,"Cloverdale city, CA",39,29,31,112,211
+Sonoma,"Cotati city, CA",35,18,18,66,137
+Sonoma,"Healdsburg city, CA",31,24,26,76,157
+Sonoma,"Petaluma city, CA",199,103,121,322,745
+Sonoma,"Rohnert Park city, CA",181,107,127,484,899
+Sonoma,"Santa Rosa city, CA",1041,671,759,2612,5083
+Sonoma,"Sebastopol city, CA",22,17,19,62,120
+Sonoma,"Sonoma city, CA",24,23,27,63,137
+Sonoma,"Windsor town, CA",120,65,67,188,440
+Sonoma,Unincorporated_Sonoma,126,37,160,192,515
