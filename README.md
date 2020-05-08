@@ -1,5 +1,5 @@
 # cp255_final
 
-This reposity contains analysis I did as part of my Master's in City and Regional Planning capstone project, a professional report for the Terner Center for Housing at UC Berkeley.
+This reposity contains analysis I did as part of my Master's in City and Regional Planning capstone project, a professional report for the Terner Center for Housing at UC Berkeley, and the course "Urban Informatics and Data Visualization" taught by Professor Sam Maurer.
 
 The goal of the project was to estimate the climate impacts of the Bay Area's shortage of housing affordable to low- and moderate-income households. To do so, the first set of notebooks use ACS PUMS data to estimate the total number of people within each income group in each PUMA geography in the greater Bay Area and impute these estimates down to the city and county level. The second set of notebooks incorporate average VMT, electricity, and gas usage data by household and geographic location to estimate GHG emissions for the entire Bay Area region under two scenarios - the first titled "business-as-usual," in which the actual changes from 2014 - 2018 are observed, and a second titled "meeting regional housing needs scenario," in which each city and county's RHNA targets were met over the study period. Results from each analysis are visualized in a final "visualzations" notebook.
